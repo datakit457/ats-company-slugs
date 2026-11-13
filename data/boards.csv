@@ -1,0 +1,844 @@
+company,ats,slug,industry,open_jobs,board_ok,checked
+spacex,greenhouse,spacex,Tech,2849,True,2026-11-13
+databricks,greenhouse,databricks,Tech,906,True,2026-11-13
+Veeva Systems,lever,veeva,,861,True,2026-11-13
+Agency,greenhouse,agency,B2B,827,True,2026-11-13
+openai,ashby,openai,Tech,827,True,2026-11-13
+Stripe,greenhouse,stripe,,787,True,2026-11-13
+anthropic,greenhouse,anthropic,Tech,673,True,2026-11-13
+cloudflare,greenhouse,cloudflare,Tech,481,True,2026-11-13
+Elastic,greenhouse,elastic,,398,True,2026-11-13
+MongoDB,greenhouse,mongodb,,386,True,2026-11-13
+Datadog,greenhouse,datadog,,383,True,2026-11-13
+waymo,greenhouse,waymo,Tech,379,True,2026-11-13
+snowflake,ashby,snowflake,Tech,378,True,2026-11-13
+Okta,greenhouse,okta,,368,True,2026-11-13
+Toast,greenhouse,toast,,357,True,2026-11-13
+StoneCo,greenhouse,stone,,348,True,2026-11-13
+Legora,ashby,legora,B2B,333,True,2026-11-13
+Canonical,greenhouse,canonical,,316,True,2026-11-13
+samsara,greenhouse,samsara,Tech,309,True,2026-11-13
+coreweave,greenhouse,coreweave,Tech,303,True,2026-11-13
+Palantir.net,lever,palantir,,302,True,2026-11-13
+brex,greenhouse,brex,Tech,283,True,2026-11-13
+Coinbase,greenhouse,coinbase,,271,True,2026-11-13
+GitLab,greenhouse,gitlab,,254,True,2026-11-13
+airbnb,greenhouse,airbnb,Tech,217,True,2026-11-13
+clickhouse,ashby,clickhouse,Tech,201,True,2026-11-13
+Flexport,greenhouse,flexport,B2B,198,True,2026-11-13
+Fivetran,greenhouse,fivetran,B2B,191,True,2026-11-13
+Astranis,greenhouse,astranis,Industrials,180,True,2026-11-13
+Ramp,ashby,ramp,,180,True,2026-11-13
+Scale AI,greenhouse,scaleai,B2B,170,True,2026-11-13
+pinterest,greenhouse,pinterest,Tech,166,True,2026-11-13
+notion,ashby,notion,Tech,165,True,2026-11-13
+robinhood,greenhouse,robinhood,Tech,160,True,2026-11-13
+Grafana Labs,greenhouse,grafanalabs,,158,True,2026-11-13
+Legion Health,ashby,legionhealth,Healthcare,157,True,2026-11-13
+Ebury,greenhouse,ebury,,155,True,2026-11-13
+lyft,greenhouse,lyft,Tech,151,True,2026-11-13
+Klaviyo,ashby,klaviyo,,147,True,2026-11-13
+Reddit,greenhouse,reddit,,147,True,2026-11-13
+Klaviyo,greenhouse,klaviyo,,145,True,2026-11-13
+Epic Games,greenhouse,epicgames,,143,True,2026-11-13
+Figma,greenhouse,figma,,143,True,2026-11-13
+Plaid,ashby,plaid,,142,True,2026-11-13
+Alan,ashby,alan,,137,True,2026-11-13
+Lightspeed,ashby,lightspeedhq,,134,True,2026-11-13
+Finni Health,ashby,finni-health,Healthcare,132,True,2026-11-13
+elevenlabs,ashby,elevenlabs,Tech,129,True,2026-11-13
+Aleph,lever,aleph,B2B,127,True,2026-11-13
+cerebras,ashby,cerebras,Tech,124,True,2026-11-13
+cohere,ashby,cohere,Tech,121,True,2026-11-13
+Mozilla,greenhouse,mozilla,,121,True,2026-11-13
+Inter.link,greenhouse,inter,,118,True,2026-11-13
+Twilio,greenhouse,twilio,,117,True,2026-11-13
+TRM Labs,ashby,trm-labs,B2B,116,True,2026-11-13
+Intercom,greenhouse,intercom,,115,True,2026-11-13
+XP Inc.,greenhouse,xpinc,,115,True,2026-11-13
+Chainguard,greenhouse,chainguard,,110,True,2026-11-13
+Asana,greenhouse,asana,,108,True,2026-11-13
+langchain,ashby,langchain,Tech,100,True,2026-11-13
+Zip,ashby,zip,B2B,99,True,2026-11-13
+Headway,ashby,headway,,91,True,2026-11-13
+lambda,ashby,lambda,Tech,91,True,2026-11-13
+instacart,greenhouse,instacart,Tech,90,True,2026-11-13
+Vercel,greenhouse,vercel,,87,True,2026-11-13
+Inversion Space,greenhouse,inversionspace,Industrials,86,True,2026-11-13
+Temporal,ashby,temporal,,86,True,2026-11-13
+Spotify,lever,spotify,,85,True,2026-11-13
+1Password,ashby,1password,,80,True,2026-11-13
+Vanta,ashby,vanta,B2B,79,True,2026-11-13
+Gusto,greenhouse,gusto,B2B,78,True,2026-11-13
+togetherai,greenhouse,togetherai,Tech,78,True,2026-11-13
+Supabase,ashby,supabase,B2B,77,True,2026-11-13
+Extreme Networks,lever,extremenetworks,,76,True,2026-11-13
+Gojob,lever,gojob,,76,True,2026-11-13
+Jeeves,lever,tryjeeves,Fintech,76,True,2026-11-13
+mercury,greenhouse,mercury,Tech,76,True,2026-11-13
+Tailscale,greenhouse,tailscale,,74,True,2026-11-13
+Hive,lever,hive,B2B,72,True,2026-11-13
+Alpaca,greenhouse,alpaca,Fintech,71,True,2026-11-13
+Ashby,ashby,ashby,B2B,71,True,2026-11-13
+Tide,greenhouse,tide,,71,True,2026-11-13
+Faire,greenhouse,faire,B2B,69,True,2026-11-13
+Truelogic,ashby,truelogic,,69,True,2026-11-13
+Exa,ashby,exa,B2B,67,True,2026-11-13
+Overview,ashby,overview,Industrials,67,True,2026-11-13
+AlphaSights>,greenhouse,alphasights,,64,True,2026-11-13
+Deepgram,ashby,deepgram,B2B,63,True,2026-11-13
+Human Interest,greenhouse,humaninterest,B2B,62,True,2026-11-13
+REGENT,ashby,regent,Industrials,62,True,2026-11-13
+duolingo,greenhouse,duolingo,Tech,61,True,2026-11-13
+Instructure,ashby,instructure,,59,True,2026-11-13
+Clear,greenhouse,clear,Fintech,58,True,2026-11-13
+Fastly,greenhouse,fastly,,56,True,2026-11-13
+amplitude,ashby,amplitude,Tech,55,True,2026-11-13
+Axle,greenhouse,axle,Fintech,55,True,2026-11-13
+Benchling,ashby,benchling,B2B,55,True,2026-11-13
+Docker,ashby,docker,B2B,54,True,2026-11-13
+Tailor,ashby,tailor,B2B,54,True,2026-11-13
+Instawork,greenhouse,instawork,B2B,53,True,2026-11-13
+Campfire,ashby,campfire,B2B,51,True,2026-11-13
+Cabify,greenhouse,cabify,,50,True,2026-11-13
+Turing,greenhouse,turing,,49,True,2026-11-13
+Gigs,ashby,gigs,B2B,48,True,2026-11-13
+PagerDuty,greenhouse,pagerduty,,48,True,2026-11-13
+ClickUp,ashby,clickup,,46,True,2026-11-13
+Twenty,ashby,twenty,B2B,46,True,2026-11-13
+Stepful,ashby,stepful,Education,45,True,2026-11-13
+Apollo.io,greenhouse,apolloio,B2B,44,True,2026-11-13
+Astro Mechanica,ashby,astro-mechanica,Industrials,44,True,2026-11-13
+voize,ashby,voize,B2B,44,True,2026-11-13
+Focal Systems,greenhouse,focalsystems,B2B,43,True,2026-11-13
+Hudl,greenhouse,hudl,,43,True,2026-11-13
+modal,ashby,modal,Tech,43,True,2026-11-13
+AfterQuery,ashby,afterquery,B2B,42,True,2026-11-13
+Dropbox,greenhouse,dropbox,,42,True,2026-11-13
+Kalshi,ashby,kalshi,Fintech,41,True,2026-11-13
+Mixpanel,greenhouse,mixpanel,B2B,41,True,2026-11-13
+Modern Tribe,lever,tri,,41,True,2026-11-13
+Checkr,greenhouse,checkr,B2B,39,True,2026-11-13
+Coursera,greenhouse,coursera,,39,True,2026-11-13
+HUD,ashby,hud,B2B,39,True,2026-11-13
+Roboflow,ashby,roboflow,B2B,39,True,2026-11-13
+Sardine.ai,ashby,sardine,,39,True,2026-11-13
+sentry,ashby,sentry,Tech,39,True,2026-11-13
+SingleStore,greenhouse,singlestore,B2B,39,True,2026-11-13
+Adaptyv,ashby,adaptyv,Healthcare,38,True,2026-11-13
+Confido,ashby,confido,B2B,38,True,2026-11-13
+Daybreak Health,greenhouse,daybreakhealth,Healthcare,38,True,2026-11-13
+Encord,ashby,encord,B2B,38,True,2026-11-13
+Harper,ashby,harperinsure,Fintech,38,True,2026-11-13
+Juicebox,ashby,juicebox,B2B,38,True,2026-11-13
+Reducto,ashby,reducto,B2B,38,True,2026-11-13
+Render,ashby,render,,38,True,2026-11-13
+snyk,ashby,snyk,Tech,38,True,2026-11-13
+ARQ,ashby,arq,Fintech,37,True,2026-11-13
+Clipboard,ashby,clipboard,Consumer,37,True,2026-11-13
+Mapbox,ashby,mapbox,,37,True,2026-11-13
+SeatGeek,greenhouse,seatgeek,,37,True,2026-11-13
+Taktile,ashby,taktile,B2B,37,True,2026-11-13
+Wizeline,greenhouse,wizeline,,37,True,2026-11-13
+Bitwarden,greenhouse,bitwarden,,36,True,2026-11-13
+DataCamp,greenhouse,datacamp,,36,True,2026-11-13
+Litmus Software,ashby,litmus,,36,True,2026-11-13
+May Mobility,greenhouse,maymobility,Industrials,36,True,2026-11-13
+Nox Metals,ashby,nox-metals,Industrials,35,True,2026-11-13
+Pleo,ashby,pleo,,35,True,2026-11-13
+Seeq,workable,seeq,,35,True,2026-11-13
+WebFX,ashby,webfx,,35,True,2026-11-13
+Eight Sleep,ashby,eightsleep,Consumer,34,True,2026-11-13
+Fieldguide,ashby,fieldguide,B2B,34,True,2026-11-13
+Moss,ashby,moss,B2B,34,True,2026-11-13
+Parallel Bio,ashby,parallel,Healthcare,34,True,2026-11-13
+Plane,ashby,plane,B2B,34,True,2026-11-13
+Sysdig,lever,sysdig,,34,True,2026-11-13
+Akido Labs,greenhouse,akidolabs,Healthcare,33,True,2026-11-13
+Axios,greenhouse,axios,,33,True,2026-11-13
+Bounteous,lever,bounteous,,33,True,2026-11-13
+Linear,ashby,linear,,33,True,2026-11-13
+Outset,ashby,outset,B2B,33,True,2026-11-13
+Pronto,greenhouse,pronto,Consumer,33,True,2026-11-13
+Toptal,lever,toptal,,33,True,2026-11-13
+Onebrief,ashby,onebrief,B2B,32,True,2026-11-13
+Raft,greenhouse,raft,,32,True,2026-11-13
+SkydropX,ashby,skydropx,B2B,32,True,2026-11-13
+Speak,ashby,speak,Consumer,32,True,2026-11-13
+Verse Medical,ashby,versemedical,Healthcare,32,True,2026-11-13
+Algolia,greenhouse,algolia,B2B,31,True,2026-11-13
+Gigs,greenhouse,gigs,B2B,31,True,2026-11-13
+HackerRank,greenhouse,hackerrank,B2B,31,True,2026-11-13
+Replit,ashby,replit,B2B,31,True,2026-11-13
+Candid Health,ashby,candidhealth,Healthcare,30,True,2026-11-13
+Finn,lever,finn,Fintech,30,True,2026-11-13
+Lio (formerly askLio),ashby,lio,B2B,30,True,2026-11-13
+Flex,ashby,flex,Fintech,29,True,2026-11-13
+GoDaddy,greenhouse,godaddy,,29,True,2026-11-13
+iFit,greenhouse,ifit,,29,True,2026-11-13
+nerdwallet,ashby,nerdwallet,,29,True,2026-11-13
+Prolific,greenhouse,prolific,B2B,29,True,2026-11-13
+Tremendous,ashby,tremendous,Fintech,29,True,2026-11-13
+Bird,greenhouse,bird,B2B,28,True,2026-11-13
+CoLab,greenhouse,colabsoftware,B2B,28,True,2026-11-13
+Flex,greenhouse,flex,Fintech,28,True,2026-11-13
+Icarus,greenhouse,icarus,Industrials,28,True,2026-11-13
+Kalshi,greenhouse,kalshi,Fintech,28,True,2026-11-13
+Vetcove,ashby,vetcove,B2B,28,True,2026-11-13
+Customer.io,greenhouse,customerio,,27,True,2026-11-13
+General Assembly,greenhouse,generalassembly,,27,True,2026-11-13
+Nearform,greenhouse,nearform,,27,True,2026-11-13
+Toku,ashby,toku,B2B,27,True,2026-11-13
+WorkOS,ashby,workos,,27,True,2026-11-13
+Nectar,ashby,nectar,Industrials,26,True,2026-11-13
+OpenRouter,ashby,openrouter,,26,True,2026-11-13
+Pylon,ashby,pylon,B2B,26,True,2026-11-13
+Rivet,ashby,rivet,B2B,26,True,2026-11-13
+BlueCat Networks,lever,bluecatnetworks,,25,True,2026-11-13
+Discord,greenhouse,discord,,25,True,2026-11-13
+Heetch,lever,heetch,,25,True,2026-11-13
+PermitFlow,ashby,permitflow,Real Estate and Construction,25,True,2026-11-13
+Shepherd,ashby,shepherd,Fintech,25,True,2026-11-13
+Teleport,ashby,goteleport,B2B,25,True,2026-11-13
+Webflow,ashby,webflow,B2B,25,True,2026-11-13
+anyscale,ashby,anyscale,Tech,24,True,2026-11-13
+Curri,ashby,curri,Real Estate and Construction,24,True,2026-11-13
+Firecrawl,ashby,firecrawl,B2B,24,True,2026-11-13
+Latent,ashby,latent,Healthcare,24,True,2026-11-13
+Odeko,greenhouse,odeko,B2B,24,True,2026-11-13
+AiPrise,ashby,aiprise,Fintech,23,True,2026-11-13
+AirGarage,ashby,airgarage,,23,True,2026-11-13
+Broccoli AI,ashby,broccoli,B2B,23,True,2026-11-13
+Envoy,ashby,envoy,,23,True,2026-11-13
+Honeycomb,greenhouse,honeycomb,,23,True,2026-11-13
+Hopper,ashby,hopper,,23,True,2026-11-13
+Nash,ashby,nash,B2B,23,True,2026-11-13
+Udacity,greenhouse,udacity,,23,True,2026-11-13
+Gecko Robotics,ashby,gecko-robotics,Industrials,22,True,2026-11-13
+Human Archive,ashby,humanarchive,Industrials,22,True,2026-11-13
+LemFi,ashby,lemfi,Fintech,22,True,2026-11-13
+Mesh,greenhouse,mesh,B2B,22,True,2026-11-13
+Mesh,ashby,mesh,B2B,22,True,2026-11-13
+Parallel Bio,greenhouse,parallel,Healthcare,22,True,2026-11-13
+Tennr,ashby,tennr,B2B,22,True,2026-11-13
+Virta Health,ashby,virtahealth,,22,True,2026-11-13
+CaptivateIQ,lever,captivateiq,B2B,21,True,2026-11-13
+CaptivateIQ,ashby,captivateiq,B2B,21,True,2026-11-13
+Conveo,ashby,conveo,B2B,21,True,2026-11-13
+fleetio,greenhouse,fleetio,,21,True,2026-11-13
+Porter,lever,porter,B2B,21,True,2026-11-13
+ClaimSorted,ashby,claimsorted,Fintech,20,True,2026-11-13
+Fingerprint,greenhouse,fingerprint,,20,True,2026-11-13
+Netomi,lever,netomi,B2B,20,True,2026-11-13
+Padlet,ashby,padlet,B2B,20,True,2026-11-13
+Retell AI,ashby,retell-ai,B2B,20,True,2026-11-13
+Skyways,lever,skyways,Industrials,20,True,2026-11-13
+Vox Media (Product Team),greenhouse,voxmedia,,20,True,2026-11-13
+Alchemy,ashby,alchemy,Industrials,19,True,2026-11-13
+AssemblyAI,greenhouse,assemblyai,B2B,19,True,2026-11-13
+Astronomer,ashby,astronomer,,19,True,2026-11-13
+Coast,greenhouse,coast,B2B,19,True,2026-11-13
+RADAR,ashby,radar,B2B,19,True,2026-11-13
+Short Story,ashby,shortstory,Consumer,19,True,2026-11-13
+Substack,ashby,substack,B2B,19,True,2026-11-13
+Sygaldry Technologies,ashby,sygaldry-technologies,Industrials,19,True,2026-11-13
+Tavus,ashby,tavus,B2B,19,True,2026-11-13
+Thrive Market,greenhouse,thrivemarket,,19,True,2026-11-13
+Xendit,greenhouse,xendit,Fintech,19,True,2026-11-13
+Blacksmith,ashby,blacksmith,B2B,18,True,2026-11-13
+FamPay,lever,fampay,Fintech,18,True,2026-11-13
+Gridware,lever,gridware,Industrials,18,True,2026-11-13
+Kombo,ashby,kombo,B2B,18,True,2026-11-13
+MeridianLink,ashby,meridianlink,,18,True,2026-11-13
+Nabis,greenhouse,nabis,B2B,18,True,2026-11-13
+OpenWork,greenhouse,openwork,B2B,18,True,2026-11-13
+Quindar,ashby,quindar,B2B,18,True,2026-11-13
+Qventus,greenhouse,qventus,Healthcare,18,True,2026-11-13
+Rescale,ashby,rescale,B2B,18,True,2026-11-13
+Snappr,lever,snappr,B2B,18,True,2026-11-13
+Solve Intelligence,ashby,solveintelligence,B2B,18,True,2026-11-13
+Swayable,greenhouse,swayable,B2B,18,True,2026-11-13
+Turion Space,ashby,turion-space,Industrials,18,True,2026-11-13
+VGS,lever,verygoodsecurity,,18,True,2026-11-13
+AIOS,ashby,aios,Healthcare,17,True,2026-11-13
+David AI,ashby,david-ai,B2B,17,True,2026-11-13
+Flip,ashby,flip,,17,True,2026-11-13
+Fours,lever,fours,B2B,17,True,2026-11-13
+Glide,lever,glide,B2B,17,True,2026-11-13
+GOAT Group,greenhouse,goatgroup,Consumer,17,True,2026-11-13
+Hubble Network,greenhouse,hubblenetwork,Industrials,17,True,2026-11-13
+Kastle,ashby,kastle,B2B,17,True,2026-11-13
+KERNEL,ashby,kernel,B2B,17,True,2026-11-13
+Metriport,ashby,metriport,Healthcare,17,True,2026-11-13
+Middesk,ashby,middesk,B2B,17,True,2026-11-13
+Phonely,ashby,phonely,B2B,17,True,2026-11-13
+Rakuten Travel Xchange,greenhouse,solutions,,17,True,2026-11-13
+Sphere,ashby,sphere,B2B,17,True,2026-11-13
+Thndr,ashby,thndr,Fintech,17,True,2026-11-13
+Trellis AI,ashby,runtrellis,B2B,17,True,2026-11-13
+Uplane,ashby,uplane,B2B,17,True,2026-11-13
+Warp,ashby,warp,B2B,17,True,2026-11-13
+ACLU,greenhouse,aclu,Unspecified,16,True,2026-11-13
+Appen,lever,appen,,16,True,2026-11-13
+Bland AI,ashby,bland,B2B,16,True,2026-11-13
+Codes Health,ashby,codes-health,B2B,16,True,2026-11-13
+Dashlane,greenhouse,dashlane,,16,True,2026-11-13
+Equal Experts Portugal,greenhouse,equalexperts,,16,True,2026-11-13
+Flai,ashby,flai,Industrials,16,True,2026-11-13
+Greptile,ashby,greptile,B2B,16,True,2026-11-13
+H1,lever,h1,Healthcare,16,True,2026-11-13
+Hedge,ashby,hedge,Fintech,16,True,2026-11-13
+LiteLLM,ashby,litellm,B2B,16,True,2026-11-13
+Luminai,ashby,luminai,B2B,16,True,2026-11-13
+Mach9,ashby,mach9,B2B,16,True,2026-11-13
+Odys Aviation,ashby,odys-aviation,Industrials,16,True,2026-11-13
+Pocket,ashby,pocket,Consumer,16,True,2026-11-13
+Reacher,ashby,reacher,B2B,16,True,2026-11-13
+Aleph,ashby,aleph,B2B,15,True,2026-11-13
+CircleCI,greenhouse,circleci,,15,True,2026-11-13
+ClassDojo,ashby,classdojo,Education,15,True,2026-11-13
+FirstWork,ashby,firstwork,B2B,15,True,2026-11-13
+Glitch,ashby,glitch,,15,True,2026-11-13
+Homebase,ashby,homebase,Real Estate and Construction,15,True,2026-11-13
+Junction,ashby,junction,Healthcare,15,True,2026-11-13
+Pelago,greenhouse,pelago,Healthcare,15,True,2026-11-13
+Povio,workable,povio,B2B,15,True,2026-11-13
+Primer,ashby,primer,,15,True,2026-11-13
+Sieve,ashby,sieve,B2B,15,True,2026-11-13
+Super,greenhouse,super,Consumer,15,True,2026-11-13
+Superside,lever,superside,B2B,15,True,2026-11-13
+Vitalize,ashby,vitalize,Healthcare,15,True,2026-11-13
+Airbyte,ashby,airbyte,B2B,14,True,2026-11-13
+Camber,ashby,camber,Healthcare,14,True,2026-11-13
+Canary Technologies,lever,canarytechnologies,B2B,14,True,2026-11-13
+Charge Robotics,ashby,charge-robotics,Industrials,14,True,2026-11-13
+Doximity,greenhouse,doximity,,14,True,2026-11-13
+Extend,greenhouse,extend,B2B,14,True,2026-11-13
+Mintlify,ashby,mintlify,B2B,14,True,2026-11-13
+Momentic,greenhouse,momentic,B2B,14,True,2026-11-13
+Multiply Labs,lever,multiplylabs,Industrials,14,True,2026-11-13
+Numeral,ashby,numeral,B2B,14,True,2026-11-13
+Ophelia,greenhouse,ophelia,Healthcare,14,True,2026-11-13
+PointOne,ashby,pointone,B2B,14,True,2026-11-13
+Prodigal,greenhouse,prodigal,Fintech,14,True,2026-11-13
+Pyka,lever,pyka,Industrials,14,True,2026-11-13
+Resend,ashby,resend,B2B,14,True,2026-11-13
+Salient,ashby,salient,B2B,14,True,2026-11-13
+telli,ashby,telli,B2B,14,True,2026-11-13
+Topline Pro,ashby,topline-pro,B2B,14,True,2026-11-13
+Triomics,ashby,triomics,Healthcare,14,True,2026-11-13
+Attain,greenhouse,attain,B2B,13,True,2026-11-13
+Axiom,greenhouse,axiom,Fintech,13,True,2026-11-13
+Bree,ashby,bree,Fintech,13,True,2026-11-13
+CircuitHub,ashby,circuithub,Industrials,13,True,2026-11-13
+cockroachlabs,greenhouse,cockroachlabs,Tech,13,True,2026-11-13
+Eloquent AI,ashby,eloquentai,B2B,13,True,2026-11-13
+Flip,greenhouse,flip,,13,True,2026-11-13
+GiveCampus,greenhouse,givecampus,Education,13,True,2026-11-13
+miro,ashby,miro,Tech,13,True,2026-11-13
+MorphoAI,ashby,morpho,Industrials,13,True,2026-11-13
+Mytos,lever,mytos,Healthcare,13,True,2026-11-13
+Olo,lever,olo,,13,True,2026-11-13
+Percona,ashby,percona,,13,True,2026-11-13
+Promise,ashby,promise,Government,13,True,2026-11-13
+Quo (fka OpenPhone),ashby,quo,B2B,13,True,2026-11-13
+Relling,ashby,relling,B2B,13,True,2026-11-13
+SigNoz,ashby,signoz,B2B,13,True,2026-11-13
+Stitch Fix,greenhouse,stitchfix,,13,True,2026-11-13
+Ziina,ashby,ziina,Fintech,13,True,2026-11-13
+Abacum,ashby,abacum,B2B,12,True,2026-11-13
+Avoca,ashby,avoca,B2B,12,True,2026-11-13
+Blue,lever,blue,Consumer,12,True,2026-11-13
+Brave,greenhouse,brave,,12,True,2026-11-13
+ConsenSys Inc,greenhouse,consensys,,12,True,2026-11-13
+Fours,ashby,fours,B2B,12,True,2026-11-13
+Gumloop,ashby,gumloop,B2B,12,True,2026-11-13
+Infisical,ashby,infisical,B2B,12,True,2026-11-13
+Lucis,ashby,lucis,Healthcare,12,True,2026-11-13
+Novig,ashby,novig,Consumer,12,True,2026-11-13
+Phoenix,ashby,phoenix,Healthcare,12,True,2026-11-13
+planetscale,greenhouse,planetscale,Tech,12,True,2026-11-13
+Prelude,ashby,prelude,,12,True,2026-11-13
+Prosper,lever,prosper,B2B,12,True,2026-11-13
+Rivia.AI,ashby,rivia,B2B,12,True,2026-11-13
+SearchApi,ashby,searchapi,,12,True,2026-11-13
+Sonatype,lever,sonatype,,12,True,2026-11-13
+Spade,ashby,spade,Fintech,12,True,2026-11-13
+Switchboard,ashby,switchboard,B2B,12,True,2026-11-13
+addstructure,lever,bazaarvoice,,11,True,2026-11-13
+Appinio,greenhouse,appinio,,11,True,2026-11-13
+Aspora,ashby,aspora,Fintech,11,True,2026-11-13
+Auctor,ashby,auctor,B2B,11,True,2026-11-13
+Bitmovin,greenhouse,bitmovin,B2B,11,True,2026-11-13
+Blissway,ashby,blissway,Government,11,True,2026-11-13
+Dave,ashby,dave,,11,True,2026-11-13
+Humaans,ashby,humaans,B2B,11,True,2026-11-13
+Langdock,ashby,langdock,B2B,11,True,2026-11-13
+Magic,ashby,magic,B2B,11,True,2026-11-13
+MarqVision,greenhouse,marqvision,B2B,11,True,2026-11-13
+Mattermost,greenhouse,mattermost,B2B,11,True,2026-11-13
+Mindful,lever,mindful,,11,True,2026-11-13
+Observe.AI,greenhouse,observeai,B2B,11,True,2026-11-13
+Oddball,greenhouse,oddball,,11,True,2026-11-13
+Oneleet,ashby,oneleet,B2B,11,True,2026-11-13
+PayScale,ashby,payscale,,11,True,2026-11-13
+Recidiviz,greenhouse,recidiviz,Government,11,True,2026-11-13
+Spaceium Inc,greenhouse,spaceium,Industrials,11,True,2026-11-13
+Spellbrush,ashby,spellbrush,Consumer,11,True,2026-11-13
+Tovala,lever,tovala,Consumer,11,True,2026-11-13
+Veriff,greenhouse,veriff,B2B,11,True,2026-11-13
+Vooma,ashby,vooma,B2B,11,True,2026-11-13
+Vori,ashby,vori,B2B,11,True,2026-11-13
+activecampaign,lever,activecampaign,,10,True,2026-11-13
+Anima,ashby,anima,Healthcare,10,True,2026-11-13
+Bankjoy,ashby,bankjoy,Fintech,10,True,2026-11-13
+Boom,ashby,boom,Industrials,10,True,2026-11-13
+Brighterway,ashby,brighterway,Fintech,10,True,2026-11-13
+Cinder,ashby,cinder,B2B,10,True,2026-11-13
+Circleback,ashby,circleback,B2B,10,True,2026-11-13
+Claim Health,ashby,claim-health,Healthcare,10,True,2026-11-13
+Duffel,ashby,duffel,Consumer,10,True,2026-11-13
+Flint,ashby,flint,Healthcare,10,True,2026-11-13
+Halluminate,ashby,halluminate,B2B,10,True,2026-11-13
+Hive,greenhouse,hive,B2B,10,True,2026-11-13
+Karat,greenhouse,karat,,10,True,2026-11-13
+Labelbox,greenhouse,labelbox,,10,True,2026-11-13
+Launch Potato,greenhouse,launchpotato,,10,True,2026-11-13
+Muck Rack,greenhouse,muckrack,,10,True,2026-11-13
+Posh,ashby,posh,Industrials,10,True,2026-11-13
+PostHog,ashby,posthog,B2B,10,True,2026-11-13
+Raindrop,ashby,raindrop,B2B,10,True,2026-11-13
+REGENT,greenhouse,regent,Industrials,10,True,2026-11-13
+RevenueCat,ashby,revenuecat,B2B,10,True,2026-11-13
+Salt Security,greenhouse,saltsecurity,B2B,10,True,2026-11-13
+Scandit,greenhouse,scandit,,10,True,2026-11-13
+SecurityScorecard,greenhouse,securityscorecard,,10,True,2026-11-13
+Simple AI,ashby,simple-ai,B2B,10,True,2026-11-13
+Wafer,ashby,wafer,B2B,10,True,2026-11-13
+Agave,ashby,agave,B2B,9,True,2026-11-13
+AgentMail,ashby,agentmail,B2B,9,True,2026-11-13
+AirHelp,workable,airhelp,Consumer,9,True,2026-11-13
+airtable,greenhouse,airtable,Tech,9,True,2026-11-13
+Ansa Biotechnologies,greenhouse,ansabiotechnologies,Healthcare,9,True,2026-11-13
+Asimov,ashby,asimov,Industrials,9,True,2026-11-13
+BriteCore,lever,britecore,,9,True,2026-11-13
+Bunkerhill Health,ashby,bunkerhillhealth,Healthcare,9,True,2026-11-13
+Dataleap,ashby,dataleap,B2B,9,True,2026-11-13
+Dyneti Technologies,ashby,dyneti,B2B,9,True,2026-11-13
+Elyos AI,ashby,elyos,B2B,9,True,2026-11-13
+Emi Labs,lever,emilabs,B2B,9,True,2026-11-13
+Finary.com,ashby,finary,Fintech,9,True,2026-11-13
+FurtherAI,ashby,furtherai,B2B,9,True,2026-11-13
+Glide,ashby,glide,B2B,9,True,2026-11-13
+Grou.ps,ashby,build,,9,True,2026-11-13
+Handoff,lever,handoff,Real Estate and Construction,9,True,2026-11-13
+Healthtech 1,ashby,healthtech-1,Healthcare,9,True,2026-11-13
+Mashgin,lever,mashgin,B2B,9,True,2026-11-13
+Mercura,ashby,mercura,B2B,9,True,2026-11-13
+neon,lever,neon,Tech,9,True,2026-11-13
+Prospa,greenhouse,prospa,Fintech,9,True,2026-11-13
+SafetyKit,ashby,safetykit,B2B,9,True,2026-11-13
+Solidroad,ashby,solidroad,B2B,9,True,2026-11-13
+Titan,ashby,titan,Fintech,9,True,2026-11-13
+Variance,ashby,variance,B2B,9,True,2026-11-13
+Wonderly,ashby,wonderly,B2B,9,True,2026-11-13
+Y Combinator,ashby,ycombinator,Fintech,9,True,2026-11-13
+Zapier,ashby,zapier,B2B,9,True,2026-11-13
+Zerocater,greenhouse,zerocater,B2B,9,True,2026-11-13
+90 Seconds,lever,90seconds,,8,True,2026-11-13
+Abundant,ashby,abundant,B2B,8,True,2026-11-13
+Albedo,greenhouse,albedo,Industrials,8,True,2026-11-13
+Anthrogen,ashby,anthrogen,Healthcare,8,True,2026-11-13
+Arketa,ashby,arketa,B2B,8,True,2026-11-13
+Beyond Reach Labs,ashby,beyondreachlabs,Industrials,8,True,2026-11-13
+burnt,greenhouse,burnt,B2B,8,True,2026-11-13
+Comena,ashby,comena,B2B,8,True,2026-11-13
+Corvus Robotics,ashby,corvus-robotics,Industrials,8,True,2026-11-13
+DiligenceSquared,ashby,diligencesquared,B2B,8,True,2026-11-13
+Escape,ashby,escape,B2B,8,True,2026-11-13
+General Proximity,greenhouse,generalproximity,Healthcare,8,True,2026-11-13
+InfluxData,ashby,influxdata,B2B,8,True,2026-11-13
+Interfere,ashby,interfere,B2B,8,True,2026-11-13
+Jiga,ashby,jiga,B2B,8,True,2026-11-13
+LanceDB,ashby,lancedb,B2B,8,True,2026-11-13
+Lapel,ashby,lapel,B2B,8,True,2026-11-13
+LogRocket,lever,logrocket,,8,True,2026-11-13
+MaverickX,lever,maverickx,Industrials,8,True,2026-11-13
+Nango,ashby,nango,B2B,8,True,2026-11-13
+Panorama Education,workable,panorama-education,Education,8,True,2026-11-13
+platform.sh,greenhouse,platformsh,,8,True,2026-11-13
+Procurify,ashby,procurify,,8,True,2026-11-13
+Quora,ashby,quora,,8,True,2026-11-13
+RADAR,greenhouse,radar,B2B,8,True,2026-11-13
+SalesPatriot,ashby,salespatriot,B2B,8,True,2026-11-13
+Simetrik,ashby,simetrik,B2B,8,True,2026-11-13
+Stable,ashby,stable,B2B,8,True,2026-11-13
+TeamSnap,lever,teamsnap,,8,True,2026-11-13
+Unusual,lever,unusual,B2B,8,True,2026-11-13
+Vera Health,ashby,verahealth,Healthcare,8,True,2026-11-13
+AEStudio,greenhouse,aestudio,,7,True,2026-11-13
+Andela,ashby,andela,,7,True,2026-11-13
+AtoB,ashby,atob,Fintech,7,True,2026-11-13
+Aurelian,ashby,aurelian,B2B,7,True,2026-11-13
+Axle Health,ashby,axle-health,Healthcare,7,True,2026-11-13
+Beam,greenhouse,beam,B2B,7,True,2026-11-13
+BetterUp,ashby,betterup,,7,True,2026-11-13
+Capchase,ashby,capchase,,7,True,2026-11-13
+Cardboard,ashby,cardboard,B2B,7,True,2026-11-13
+Clarion,ashby,clarion,Healthcare,7,True,2026-11-13
+Concourse,ashby,concourse,B2B,7,True,2026-11-13
+Dispatch,ashby,dispatch,Industrials,7,True,2026-11-13
+Ditto,ashby,ditto,B2B,7,True,2026-11-13
+doola,lever,doola,B2B,7,True,2026-11-13
+FleetWorks,ashby,fleetworks,B2B,7,True,2026-11-13
+Kodex,ashby,kodex,B2B,7,True,2026-11-13
+Lance,ashby,lance,B2B,7,True,2026-11-13
+Lifen,ashby,lifen,,7,True,2026-11-13
+Locus Robotics,greenhouse,locusrobotics,,7,True,2026-11-13
+Magic Patterns,ashby,magicpatterns,B2B,7,True,2026-11-13
+Modern Treasury,ashby,moderntreasury,B2B,7,True,2026-11-13
+Mutiny,ashby,mutiny,B2B,7,True,2026-11-13
+Nomic Bio,ashby,nomic,Healthcare,7,True,2026-11-13
+Notabene,ashby,notabene,B2B,7,True,2026-11-13
+Nova Credit,greenhouse,novacredit,Fintech,7,True,2026-11-13
+Osmosis,greenhouse,osmosis,B2B,7,True,2026-11-13
+Parameter,ashby,parameter,B2B,7,True,2026-11-13
+Photoroom,ashby,photoroom,Consumer,7,True,2026-11-13
+Prelim,ashby,prelim,Fintech,7,True,2026-11-13
+Railway,ashby,railway,,7,True,2026-11-13
+Remora,greenhouse,remoracarbon,Industrials,7,True,2026-11-13
+Roofr,greenhouse,roofr,Consumer,7,True,2026-11-13
+SF Tensor,ashby,sf-tensor,B2B,7,True,2026-11-13
+Sift,ashby,sift,B2B,7,True,2026-11-13
+SnapMagic,ashby,snapmagic,B2B,7,True,2026-11-13
+Sola,ashby,sola,B2B,7,True,2026-11-13
+SpruceID,ashby,spruceid,Government,7,True,2026-11-13
+Sweep,ashby,sweep,B2B,7,True,2026-11-13
+Tamarind Bio,ashby,tamarindbio,B2B,7,True,2026-11-13
+Text.ai,lever,text,Consumer,7,True,2026-11-13
+Andromeda Surgical,ashby,andromedasurgical,Healthcare,6,True,2026-11-13
+Anomali,lever,anomali,,6,True,2026-11-13
+Artie,ashby,artie,B2B,6,True,2026-11-13
+Atomic,ashby,atomic,B2B,6,True,2026-11-13
+Automat,ashby,automat,B2B,6,True,2026-11-13
+Bolna AI,ashby,bolna,B2B,6,True,2026-11-13
+Brainbase Labs,ashby,brainbaselabs,B2B,6,True,2026-11-13
+Bretton AI,ashby,brettonai,Fintech,6,True,2026-11-13
+Calendly,greenhouse,calendly,,6,True,2026-11-13
+Cambio,ashby,cambio,Real Estate and Construction,6,True,2026-11-13
+Casca,ashby,casca,Fintech,6,True,2026-11-13
+Chroma,ashby,chromatic,,6,True,2026-11-13
+Complete,ashby,complete,B2B,6,True,2026-11-13
+ConsenSys Inc,ashby,consensys,,6,True,2026-11-13
+Credal.ai,ashby,credal,B2B,6,True,2026-11-13
+Diligent,greenhouse,diligent,Fintech,6,True,2026-11-13
+Dodo,ashby,dodo,Healthcare,6,True,2026-11-13
+Enode,ashby,enode,Industrials,6,True,2026-11-13
+Finch,lever,finch,B2B,6,True,2026-11-13
+Fleek,ashby,fleek,B2B,6,True,2026-11-13
+Freshpaint,ashby,freshpaint,B2B,6,True,2026-11-13
+Great Question,ashby,greatquestion,B2B,6,True,2026-11-13
+Greenboard,ashby,greenboard,Fintech,6,True,2026-11-13
+Help Scout,ashby,helpscout,,6,True,2026-11-13
+Invert,ashby,invert,Healthcare,6,True,2026-11-13
+Julius,ashby,julius,B2B,6,True,2026-11-13
+Kindred,ashby,kindred,,6,True,2026-11-13
+LiveFlow,ashby,liveflow,B2B,6,True,2026-11-13
+Meticulous,ashby,meticulous,B2B,6,True,2026-11-13
+Octopus Deploy,greenhouse,octopusdeploy,,6,True,2026-11-13
+OpenZeppelin,greenhouse,openzeppelin,,6,True,2026-11-13
+Paradigm,ashby,paradigm,B2B,6,True,2026-11-13
+People.ai,lever,people-ai,B2B,6,True,2026-11-13
+pinecone,ashby,pinecone,Tech,6,True,2026-11-13
+Popl,ashby,popl,B2B,6,True,2026-11-13
+Reach,ashby,reach,Industrials,6,True,2026-11-13
+Shadeform,ashby,shadeform,B2B,6,True,2026-11-13
+Sim,ashby,sim,B2B,6,True,2026-11-13
+Spruce,ashby,spruce,,6,True,2026-11-13
+Squire Technologies,ashby,getsquire,Consumer,6,True,2026-11-13
+Stream,ashby,stream,Fintech,6,True,2026-11-13
+Submittable,greenhouse,submittable,B2B,6,True,2026-11-13
+Terminal,ashby,terminal,B2B,6,True,2026-11-13
+Thera,ashby,thera,B2B,6,True,2026-11-13
+Upwork Pro,greenhouse,upwork,,6,True,2026-11-13
+Usul,ashby,usul,Government,6,True,2026-11-13
+Zeit AI,ashby,zeit-ai,B2B,6,True,2026-11-13
+Zensors,ashby,zensors,B2B,6,True,2026-11-13
+Acquia,greenhouse,acquia,,5,True,2026-11-13
+authzed,ashby,authzed,B2B,5,True,2026-11-13
+Benepass,ashby,benepass,B2B,5,True,2026-11-13
+Bild AI,ashby,bild-ai,Real Estate and Construction,5,True,2026-11-13
+Blee,ashby,blee,Fintech,5,True,2026-11-13
+CareMessage,ashby,caremessage,Healthcare,5,True,2026-11-13
+charity: water,lever,charitywater,,5,True,2026-11-13
+Complif,ashby,complif,B2B,5,True,2026-11-13
+Electric Air,ashby,electricair,Real Estate and Construction,5,True,2026-11-13
+Ello,ashby,ello,Education,5,True,2026-11-13
+Extend,ashby,extend,B2B,5,True,2026-11-13
+Formance,ashby,formance,B2B,5,True,2026-11-13
+Ghost,greenhouse,ghost,,5,True,2026-11-13
+GovEagle,ashby,goveagle,Government,5,True,2026-11-13
+Hyperbound,ashby,hyperbound,B2B,5,True,2026-11-13
+Kestra,ashby,kestra,,5,True,2026-11-13
+Kingdom,ashby,kingdom,Healthcare,5,True,2026-11-13
+Lob,greenhouse,lob,B2B,5,True,2026-11-13
+Luminal,ashby,luminal,B2B,5,True,2026-11-13
+Momentic,ashby,momentic,B2B,5,True,2026-11-13
+Mosaic,ashby,mosaic,Consumer,5,True,2026-11-13
+Newton,lever,newton,B2B,5,True,2026-11-13
+Nuna Inc,ashby,nuna,,5,True,2026-11-13
+OffDeal,ashby,offdeal,B2B,5,True,2026-11-13
+Opencall,ashby,opencall,B2B,5,True,2026-11-13
+Orbital Operations,greenhouse,orbitaloperations,Industrials,5,True,2026-11-13
+Pivot Robotics,ashby,pivotrobotics,Industrials,5,True,2026-11-13
+Porter,greenhouse,porter,B2B,5,True,2026-11-13
+Preload,greenhouse,preload,B2B,5,True,2026-11-13
+Probably Genetic,ashby,probablygenetic,Healthcare,5,True,2026-11-13
+Pure,ashby,pure,Consumer,5,True,2026-11-13
+Reality Defender,ashby,realitydefender,B2B,5,True,2026-11-13
+Recall.ai,ashby,recall,B2B,5,True,2026-11-13
+Vapi,ashby,vapi,B2B,5,True,2026-11-13
+Veritus,ashby,veritus,Fintech,5,True,2026-11-13
+Warp,greenhouse,warp,B2B,5,True,2026-11-13
+15Five,lever,15five,,4,True,2026-11-13
+Accord,ashby,accord,B2B,4,True,2026-11-13
+Artisan,ashby,artisan,B2B,4,True,2026-11-13
+Artos,ashby,artosai,B2B,4,True,2026-11-13
+Assembly,ashby,assembly,B2B,4,True,2026-11-13
+Avallon AI,ashby,avallon,Fintech,4,True,2026-11-13
+Brumby,ashby,brumby,Industrials,4,True,2026-11-13
+Cambly,ashby,cambly,Education,4,True,2026-11-13
+Chestnut,ashby,chestnut,Fintech,4,True,2026-11-13
+Copia,lever,copia,B2B,4,True,2026-11-13
+Decoda Health,ashby,decodahealth,Healthcare,4,True,2026-11-13
+Dedalus Labs,ashby,dedalus-labs,B2B,4,True,2026-11-13
+Enveritas,greenhouse,enveritas,Industrials,4,True,2026-11-13
+Epsilon3,lever,epsilon3,B2B,4,True,2026-11-13
+Eventual,ashby,eventual,B2B,4,True,2026-11-13
+Fernstone,ashby,fernstone,Fintech,4,True,2026-11-13
+Fintual,lever,fintual,Fintech,4,True,2026-11-13
+Fortuna Health,ashby,fortuna-health,Healthcare,4,True,2026-11-13
+Ghost,ashby,ghost,,4,True,2026-11-13
+GoHiring,greenhouse,gohiring,,4,True,2026-11-13
+GUILD,greenhouse,guild,Industrials,4,True,2026-11-13
+Happl,ashby,happl,B2B,4,True,2026-11-13
+Hotplate,ashby,hotplate,Consumer,4,True,2026-11-13
+Kernal Biologics,greenhouse,kernalbio,Healthcare,4,True,2026-11-13
+Kivo Health,ashby,kivo-health,Healthcare,4,True,2026-11-13
+Knowtex,ashby,knowtex,Healthcare,4,True,2026-11-13
+Lattice,greenhouse,lattice,B2B,4,True,2026-11-13
+Limrun,greenhouse,limrun,B2B,4,True,2026-11-13
+Luxor Technology,ashby,luxor,,4,True,2026-11-13
+MetaLab,greenhouse,metalab,,4,True,2026-11-13
+Morph,greenhouse,morph,B2B,4,True,2026-11-13
+Netlify,greenhouse,netlify,,4,True,2026-11-13
+Newton,greenhouse,newton,B2B,4,True,2026-11-13
+Nira Energy,greenhouse,niraenergy,Industrials,4,True,2026-11-13
+Nowadays,ashby,nowadays,B2B,4,True,2026-11-13
+Outschool,ashby,outschool,Education,4,True,2026-11-13
+Pirros,ashby,pirros,B2B,4,True,2026-11-13
+Polymath,ashby,polymath,B2B,4,True,2026-11-13
+Provision,ashby,provision,B2B,4,True,2026-11-13
+Redox,lever,redoxengine,,4,True,2026-11-13
+Sendbird,greenhouse,sendbird,B2B,4,True,2026-11-13
+Snapdocs,ashby,snapdocs,Real Estate and Construction,4,True,2026-11-13
+STARK BANK,lever,starkbank,Fintech,4,True,2026-11-13
+Synapticure,lever,synapticure,Healthcare,4,True,2026-11-13
+Tempo,greenhouse,tempo,Healthcare,4,True,2026-11-13
+Thorn,greenhouse,thorn,,4,True,2026-11-13
+True Link,ashby,truelinkfinancial,Fintech,4,True,2026-11-13
+Two Dots,lever,twodots,Fintech,4,True,2026-11-13
+UserGems,greenhouse,usergems,B2B,4,True,2026-11-13
+Verto,ashby,verto,Fintech,4,True,2026-11-13
+YAZIO,ashby,yazio,,4,True,2026-11-13
+Zippi,lever,zippi,Fintech,4,True,2026-11-13
+Aerostrat,lever,aerostrat,,3,True,2026-11-13
+Airgoods,ashby,airgoods,B2B,3,True,2026-11-13
+Ambition,ashby,ambition,B2B,3,True,2026-11-13
+Ambral,ashby,ambral,B2B,3,True,2026-11-13
+Belvo,ashby,belvo,Fintech,3,True,2026-11-13
+CarbonChain,greenhouse,carbonchain,Industrials,3,True,2026-11-13
+Caribou,ashby,caribou,B2B,3,True,2026-11-13
+Close,ashby,close,B2B,3,True,2026-11-13
+Clueso,ashby,clueso,B2B,3,True,2026-11-13
+CoinTracker,ashby,cointracker,Fintech,3,True,2026-11-13
+CommodityAI,ashby,commodityai,B2B,3,True,2026-11-13
+Cortex,greenhouse,cortex,B2B,3,True,2026-11-13
+CTGT,ashby,ctgt,B2B,3,True,2026-11-13
+Culture Biosciences,greenhouse,culturebiosciences,Healthcare,3,True,2026-11-13
+Deepnote,ashby,deepnote,B2B,3,True,2026-11-13
+Finch,ashby,finch,B2B,3,True,2026-11-13
+FlutterFlow,ashby,flutterflow,B2B,3,True,2026-11-13
+Gitbook,ashby,gitbook,,3,True,2026-11-13
+GoLinks,ashby,golinks,B2B,3,True,2026-11-13
+Gremlin,greenhouse,gremlin,,3,True,2026-11-13
+H3X Technologies,ashby,h3x-technologies,Industrials,3,True,2026-11-13
+Haven,greenhouse,haven,Fintech,3,True,2026-11-13
+Heart Aerospace,greenhouse,heartaerospace,Industrials,3,True,2026-11-13
+HockeyStack,ashby,hockeystack,B2B,3,True,2026-11-13
+Hudu,ashby,hudu,B2B,3,True,2026-11-13
+idler,ashby,idler,B2B,3,True,2026-11-13
+Infinite,ashby,infinite,Fintech,3,True,2026-11-13
+Inkeep,ashby,inkeep,B2B,3,True,2026-11-13
+Innate,ashby,innate,Consumer,3,True,2026-11-13
+Jeevy Fabrication,ashby,jeevyfabrication,B2B,3,True,2026-11-13
+JOOR,ashby,joor,,3,True,2026-11-13
+Khan Academy,greenhouse,khanacademy,,3,True,2026-11-13
+Kinsta,lever,kinsta,,3,True,2026-11-13
+Lightdash,ashby,lightdash,B2B,3,True,2026-11-13
+Mundo AI,ashby,mundo-ai,B2B,3,True,2026-11-13
+One Robot,ashby,onerobot,Industrials,3,True,2026-11-13
+Pharos,ashby,pharos,Healthcare,3,True,2026-11-13
+Postscript,greenhouse,postscript,B2B,3,True,2026-11-13
+Proof of Human,ashby,proofofhuman,B2B,3,True,2026-11-13
+Rally,ashby,rallyuxr,B2B,3,True,2026-11-13
+Ready,ashby,ready,Government,3,True,2026-11-13
+Reflex,greenhouse,reflex,B2B,3,True,2026-11-13
+RenoFi,lever,renofi,,3,True,2026-11-13
+Runway,ashby,runway,B2B,3,True,2026-11-13
+Serif Health,ashby,serifhealth,Healthcare,3,True,2026-11-13
+Sixfold Bioscience,greenhouse,sixfold,Healthcare,3,True,2026-11-13
+SmartAsset,greenhouse,smartasset,Fintech,3,True,2026-11-13
+Spur,ashby,spur,B2B,3,True,2026-11-13
+Sticker Mule,ashby,stickermule,,3,True,2026-11-13
+Stilta,ashby,stilta,B2B,3,True,2026-11-13
+StreamNative,greenhouse,streamnative,,3,True,2026-11-13
+Svix,ashby,svix,B2B,3,True,2026-11-13
+Tajir,ashby,tajir,B2B,3,True,2026-11-13
+Treasury Prime,greenhouse,treasuryprime,Fintech,3,True,2026-11-13
+Ultra,ashby,ultra,Industrials,3,True,2026-11-13
+Uncapped,workable,uncapped,,3,True,2026-11-13
+UpCodes,ashby,upcodes,Real Estate and Construction,3,True,2026-11-13
+Valimail,greenhouse,valimail,,3,True,2026-11-13
+Vector,ashby,vector,B2B,3,True,2026-11-13
+"Volta Labs, Inc.",lever,voltalabs,Healthcare,3,True,2026-11-13
+AnswerThis,ashby,answerthis,Consumer,2,True,2026-11-13
+AON3D,greenhouse,aon3d,Industrials,2,True,2026-11-13
+Apolink,ashby,apolink,Industrials,2,True,2026-11-13
+Arini,ashby,arini,Healthcare,2,True,2026-11-13
+Atlas,ashby,atlas,B2B,2,True,2026-11-13
+Baubap,greenhouse,baubap,Fintech,2,True,2026-11-13
+Buffer,ashby,buffer,,2,True,2026-11-13
+Calibre,ashby,calibre,,2,True,2026-11-13
+Capy,ashby,capy,B2B,2,True,2026-11-13
+Caribou,greenhouse,caribou,B2B,2,True,2026-11-13
+Castle,ashby,castle,B2B,2,True,2026-11-13
+Checkly,ashby,checkly,,2,True,2026-11-13
+Collabora,lever,collabora,,2,True,2026-11-13
+Datafold,ashby,datafold,B2B,2,True,2026-11-13
+Domu Technology Inc.,ashby,domu,B2B,2,True,2026-11-13
+FINNY AI,ashby,finny,Fintech,2,True,2026-11-13
+Fleetzero,lever,fleetzero,Industrials,2,True,2026-11-13
+Fly.io,lever,fly,B2B,2,True,2026-11-13
+Focal Systems,ashby,focal,B2B,2,True,2026-11-13
+GUILD,ashby,guild,Industrials,2,True,2026-11-13
+Heron,ashby,herondata,Fintech,2,True,2026-11-13
+Humanly,ashby,humanly,B2B,2,True,2026-11-13
+Hypercubic,ashby,hypercubic,B2B,2,True,2026-11-13
+IMT Care,greenhouse,imt,Healthcare,2,True,2026-11-13
+Invopop,ashby,invopop,B2B,2,True,2026-11-13
+Legalist,greenhouse,legalist,Fintech,2,True,2026-11-13
+Long Term Stock Exchange,greenhouse,ltse,Fintech,2,True,2026-11-13
+MangoDesk,ashby,mangodesk,B2B,2,True,2026-11-13
+Mastra,ashby,mastra,B2B,2,True,2026-11-13
+Medium,greenhouse,medium,,2,True,2026-11-13
+Mixmax,greenhouse,mixmax,,2,True,2026-11-13
+Modern Health,greenhouse,modernhealth,Healthcare,2,True,2026-11-13
+Mux,ashby,mux,B2B,2,True,2026-11-13
+Nuharbor Security,greenhouse,nuharborsecurity,,2,True,2026-11-13
+Ollie,lever,myollie,,2,True,2026-11-13
+OneSchema,ashby,oneschema,B2B,2,True,2026-11-13
+Papa,greenhouse,papa,Healthcare,2,True,2026-11-13
+Pax Historia,ashby,pax-historia,Consumer,2,True,2026-11-13
+Permutive,ashby,permutive,B2B,2,True,2026-11-13
+PickTrace,lever,picktrace,Industrials,2,True,2026-11-13
+PostEra,lever,postera,Healthcare,2,True,2026-11-13
+Prominent Edge,lever,prominentedge,,2,True,2026-11-13
+Quicknode,ashby,quicknode,B2B,2,True,2026-11-13
+Reach,lever,reachpower,Industrials,2,True,2026-11-13
+Recall.ai,greenhouse,recall,B2B,2,True,2026-11-13
+Reform,ashby,reform,B2B,2,True,2026-11-13
+Relace,ashby,relace,B2B,2,True,2026-11-13
+Replo,ashby,replo,B2B,2,True,2026-11-13
+Revise Robotics,ashby,reviserobotics,Industrials,2,True,2026-11-13
+REZI,ashby,rezi,Real Estate and Construction,2,True,2026-11-13
+Rollstack,ashby,rollstack,B2B,2,True,2026-11-13
+Smartcuts,lever,smartcuts,B2B,2,True,2026-11-13
+Super,lever,super,Consumer,2,True,2026-11-13
+Tekton Dynamics,ashby,tekton-dynamics,Industrials,2,True,2026-11-13
+TestGorilla,ashby,testgorilla,,2,True,2026-11-13
+Thunkable,lever,thunkable,B2B,2,True,2026-11-13
+Toku,lever,toku,B2B,2,True,2026-11-13
+weaviate,ashby,weaviate,Tech,2,True,2026-11-13
+ZenRows,greenhouse,zenrows,,2,True,2026-11-13
+1Password,workable,1password,,1,True,2026-11-13
+Ad Hoc,ashby,ad-hoc,,1,True,2026-11-13
+Appcues,ashby,appcues,,1,True,2026-11-13
+Aragorn AI,ashby,aragorn,B2B,1,True,2026-11-13
+Articulate,lever,articulate,,1,True,2026-11-13
+Atrato,ashby,atrato,Fintech,1,True,2026-11-13
+Autumn,ashby,autumn,B2B,1,True,2026-11-13
+BackerKit,lever,backerkit,B2B,1,True,2026-11-13
+Betable,greenhouse,corp,,1,True,2026-11-13
+Boostly,ashby,boostly,B2B,1,True,2026-11-13
+BootLoop,ashby,bootloop,B2B,1,True,2026-11-13
+Casco,ashby,casco,B2B,1,True,2026-11-13
+CivicActions,greenhouse,civicactions,,1,True,2026-11-13
+Comet,greenhouse,comet,,1,True,2026-11-13
+Complir,ashby,complir,B2B,1,True,2026-11-13
+Conduit,ashby,conduit,B2B,1,True,2026-11-13
+Cosine,ashby,cosine,B2B,1,True,2026-11-13
+d_model,ashby,dmodel,B2B,1,True,2026-11-13
+Depot,ashby,depot,B2B,1,True,2026-11-13
+Event Horizon Labs,ashby,event-horizon-labs,Fintech,1,True,2026-11-13
+Flowtel,ashby,flowtel,B2B,1,True,2026-11-13
+General Legal,greenhouse,general,B2B,1,True,2026-11-13
+Glide,greenhouse,glide,B2B,1,True,2026-11-13
+GovDash,ashby,govdash,Government,1,True,2026-11-13
+HealthSherpa,ashby,healthsherpa,Healthcare,1,True,2026-11-13
+Hightouch,ashby,hightouch,B2B,1,True,2026-11-13
+Hotjar,workable,careers,,1,True,2026-11-13
+Hubstaff,ashby,hubstaff,,1,True,2026-11-13
+Infera,ashby,infera,Healthcare,1,True,2026-11-13
+Keen IO,greenhouse,keen,,1,True,2026-11-13
+Kinter,lever,kinter,B2B,1,True,2026-11-13
+Knack,greenhouse,knack,,1,True,2026-11-13
+Malga,ashby,malga,Fintech,1,True,2026-11-13
+MarqVision,lever,marqvision,B2B,1,True,2026-11-13
+MBX,greenhouse,us,Consumer,1,True,2026-11-13
+Mednet,ashby,mednet,Healthcare,1,True,2026-11-13
+Mem0,ashby,mem0,B2B,1,True,2026-11-13
+Meru Health,greenhouse,meruhealth,Healthcare,1,True,2026-11-13
+Metal,ashby,metal,B2B,1,True,2026-11-13
+Miso Labs,ashby,misolabs,B2B,1,True,2026-11-13
+neon,ashby,neon,Tech,1,True,2026-11-13
+OneChronos,ashby,onechronos,Fintech,1,True,2026-11-13
+Pair Team,greenhouse,pairteam,Healthcare,1,True,2026-11-13
+PicnicAI,greenhouse,picnicai,Healthcare,1,True,2026-11-13
+Prometheus,ashby,prometheus,Industrials,1,True,2026-11-13
+Quartzy,lever,quartzy,Healthcare,1,True,2026-11-13
+Ramp,greenhouse,ramp,,1,True,2026-11-13
+ReCharge Payments,ashby,recharge,,1,True,2026-11-13
+Rocket.Chat,greenhouse,rocketchat,,1,True,2026-11-13
+Runa,ashby,runa,B2B,1,True,2026-11-13
+Ryvn,ashby,ryvn,B2B,1,True,2026-11-13
+Sapling.ai,lever,sapling,B2B,1,True,2026-11-13
+Slope,ashby,slope,Fintech,1,True,2026-11-13
+Snackpass,ashby,snackpass,Consumer,1,True,2026-11-13
+Sweetspot,ashby,sweetspot,B2B,1,True,2026-11-13
+Tenor,ashby,tenor,B2B,1,True,2026-11-13
+Thunder Compute,ashby,thundercompute,B2B,1,True,2026-11-13
+Tsenta,ashby,tsenta,Consumer,1,True,2026-11-13
+Tuesday Labs,ashby,tuesday-labs,Consumer,1,True,2026-11-13
+Upflow,ashby,upflow,Fintech,1,True,2026-11-13
+VergeSense,lever,vergesense,Real Estate and Construction,1,True,2026-11-13
+Vorticity,ashby,vorticity,Industrials,1,True,2026-11-13
+Yuma AI,greenhouse,yuma,B2B,1,True,2026-11-13
+BioRender,lever,biorender,B2B,0,False,2026-11-13
+Clearly AI,ashby,clearly-ai,B2B,0,True,2026-11-13
+Ekho,ashby,ekho,B2B,0,True,2026-11-13
+Klarify,ashby,klarify,Healthcare,0,True,2026-11-13
+LAIKA,greenhouse,laika,Consumer,0,True,2026-11-13
+Lucid Bots,ashby,lucid-bots,Industrials,0,True,2026-11-13
+Offstream,ashby,offstream,B2B,0,False,2026-11-13
+Riot,lever,tryriot,B2B,0,False,2026-11-13

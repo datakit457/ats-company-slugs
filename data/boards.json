@@ -1,0 +1,7589 @@
+[
+ {
+  "company": "spacex",
+  "ats": "greenhouse",
+  "slug": "spacex",
+  "industry": "Tech",
+  "open_jobs": 2849,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "databricks",
+  "ats": "greenhouse",
+  "slug": "databricks",
+  "industry": "Tech",
+  "open_jobs": 906,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Veeva Systems",
+  "ats": "lever",
+  "slug": "veeva",
+  "industry": "",
+  "open_jobs": 861,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Agency",
+  "ats": "greenhouse",
+  "slug": "agency",
+  "industry": "B2B",
+  "open_jobs": 827,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "openai",
+  "ats": "ashby",
+  "slug": "openai",
+  "industry": "Tech",
+  "open_jobs": 827,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Stripe",
+  "ats": "greenhouse",
+  "slug": "stripe",
+  "industry": "",
+  "open_jobs": 787,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "anthropic",
+  "ats": "greenhouse",
+  "slug": "anthropic",
+  "industry": "Tech",
+  "open_jobs": 673,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "cloudflare",
+  "ats": "greenhouse",
+  "slug": "cloudflare",
+  "industry": "Tech",
+  "open_jobs": 481,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Elastic",
+  "ats": "greenhouse",
+  "slug": "elastic",
+  "industry": "",
+  "open_jobs": 398,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MongoDB",
+  "ats": "greenhouse",
+  "slug": "mongodb",
+  "industry": "",
+  "open_jobs": 386,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Datadog",
+  "ats": "greenhouse",
+  "slug": "datadog",
+  "industry": "",
+  "open_jobs": 383,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "waymo",
+  "ats": "greenhouse",
+  "slug": "waymo",
+  "industry": "Tech",
+  "open_jobs": 379,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "snowflake",
+  "ats": "ashby",
+  "slug": "snowflake",
+  "industry": "Tech",
+  "open_jobs": 378,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Okta",
+  "ats": "greenhouse",
+  "slug": "okta",
+  "industry": "",
+  "open_jobs": 368,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Toast",
+  "ats": "greenhouse",
+  "slug": "toast",
+  "industry": "",
+  "open_jobs": 357,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "StoneCo",
+  "ats": "greenhouse",
+  "slug": "stone",
+  "industry": "",
+  "open_jobs": 348,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Legora",
+  "ats": "ashby",
+  "slug": "legora",
+  "industry": "B2B",
+  "open_jobs": 333,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Canonical",
+  "ats": "greenhouse",
+  "slug": "canonical",
+  "industry": "",
+  "open_jobs": 316,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "samsara",
+  "ats": "greenhouse",
+  "slug": "samsara",
+  "industry": "Tech",
+  "open_jobs": 309,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "coreweave",
+  "ats": "greenhouse",
+  "slug": "coreweave",
+  "industry": "Tech",
+  "open_jobs": 303,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Palantir.net",
+  "ats": "lever",
+  "slug": "palantir",
+  "industry": "",
+  "open_jobs": 302,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "brex",
+  "ats": "greenhouse",
+  "slug": "brex",
+  "industry": "Tech",
+  "open_jobs": 283,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Coinbase",
+  "ats": "greenhouse",
+  "slug": "coinbase",
+  "industry": "",
+  "open_jobs": 271,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GitLab",
+  "ats": "greenhouse",
+  "slug": "gitlab",
+  "industry": "",
+  "open_jobs": 254,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "airbnb",
+  "ats": "greenhouse",
+  "slug": "airbnb",
+  "industry": "Tech",
+  "open_jobs": 217,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "clickhouse",
+  "ats": "ashby",
+  "slug": "clickhouse",
+  "industry": "Tech",
+  "open_jobs": 201,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flexport",
+  "ats": "greenhouse",
+  "slug": "flexport",
+  "industry": "B2B",
+  "open_jobs": 198,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fivetran",
+  "ats": "greenhouse",
+  "slug": "fivetran",
+  "industry": "B2B",
+  "open_jobs": 191,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Astranis",
+  "ats": "greenhouse",
+  "slug": "astranis",
+  "industry": "Industrials",
+  "open_jobs": 180,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ramp",
+  "ats": "ashby",
+  "slug": "ramp",
+  "industry": "",
+  "open_jobs": 180,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Scale AI",
+  "ats": "greenhouse",
+  "slug": "scaleai",
+  "industry": "B2B",
+  "open_jobs": 170,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "pinterest",
+  "ats": "greenhouse",
+  "slug": "pinterest",
+  "industry": "Tech",
+  "open_jobs": 166,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "notion",
+  "ats": "ashby",
+  "slug": "notion",
+  "industry": "Tech",
+  "open_jobs": 165,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "robinhood",
+  "ats": "greenhouse",
+  "slug": "robinhood",
+  "industry": "Tech",
+  "open_jobs": 160,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Grafana Labs",
+  "ats": "greenhouse",
+  "slug": "grafanalabs",
+  "industry": "",
+  "open_jobs": 158,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Legion Health",
+  "ats": "ashby",
+  "slug": "legionhealth",
+  "industry": "Healthcare",
+  "open_jobs": 157,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ebury",
+  "ats": "greenhouse",
+  "slug": "ebury",
+  "industry": "",
+  "open_jobs": 155,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "lyft",
+  "ats": "greenhouse",
+  "slug": "lyft",
+  "industry": "Tech",
+  "open_jobs": 151,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Klaviyo",
+  "ats": "ashby",
+  "slug": "klaviyo",
+  "industry": "",
+  "open_jobs": 147,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reddit",
+  "ats": "greenhouse",
+  "slug": "reddit",
+  "industry": "",
+  "open_jobs": 147,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Klaviyo",
+  "ats": "greenhouse",
+  "slug": "klaviyo",
+  "industry": "",
+  "open_jobs": 145,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Epic Games",
+  "ats": "greenhouse",
+  "slug": "epicgames",
+  "industry": "",
+  "open_jobs": 143,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Figma",
+  "ats": "greenhouse",
+  "slug": "figma",
+  "industry": "",
+  "open_jobs": 143,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Plaid",
+  "ats": "ashby",
+  "slug": "plaid",
+  "industry": "",
+  "open_jobs": 142,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Alan",
+  "ats": "ashby",
+  "slug": "alan",
+  "industry": "",
+  "open_jobs": 137,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lightspeed",
+  "ats": "ashby",
+  "slug": "lightspeedhq",
+  "industry": "",
+  "open_jobs": 134,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Finni Health",
+  "ats": "ashby",
+  "slug": "finni-health",
+  "industry": "Healthcare",
+  "open_jobs": 132,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "elevenlabs",
+  "ats": "ashby",
+  "slug": "elevenlabs",
+  "industry": "Tech",
+  "open_jobs": 129,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Aleph",
+  "ats": "lever",
+  "slug": "aleph",
+  "industry": "B2B",
+  "open_jobs": 127,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "cerebras",
+  "ats": "ashby",
+  "slug": "cerebras",
+  "industry": "Tech",
+  "open_jobs": 124,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "cohere",
+  "ats": "ashby",
+  "slug": "cohere",
+  "industry": "Tech",
+  "open_jobs": 121,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mozilla",
+  "ats": "greenhouse",
+  "slug": "mozilla",
+  "industry": "",
+  "open_jobs": 121,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Inter.link",
+  "ats": "greenhouse",
+  "slug": "inter",
+  "industry": "",
+  "open_jobs": 118,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Twilio",
+  "ats": "greenhouse",
+  "slug": "twilio",
+  "industry": "",
+  "open_jobs": 117,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "TRM Labs",
+  "ats": "ashby",
+  "slug": "trm-labs",
+  "industry": "B2B",
+  "open_jobs": 116,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Intercom",
+  "ats": "greenhouse",
+  "slug": "intercom",
+  "industry": "",
+  "open_jobs": 115,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "XP Inc.",
+  "ats": "greenhouse",
+  "slug": "xpinc",
+  "industry": "",
+  "open_jobs": 115,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Chainguard",
+  "ats": "greenhouse",
+  "slug": "chainguard",
+  "industry": "",
+  "open_jobs": 110,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Asana",
+  "ats": "greenhouse",
+  "slug": "asana",
+  "industry": "",
+  "open_jobs": 108,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "langchain",
+  "ats": "ashby",
+  "slug": "langchain",
+  "industry": "Tech",
+  "open_jobs": 100,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Zip",
+  "ats": "ashby",
+  "slug": "zip",
+  "industry": "B2B",
+  "open_jobs": 99,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Headway",
+  "ats": "ashby",
+  "slug": "headway",
+  "industry": "",
+  "open_jobs": 91,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "lambda",
+  "ats": "ashby",
+  "slug": "lambda",
+  "industry": "Tech",
+  "open_jobs": 91,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "instacart",
+  "ats": "greenhouse",
+  "slug": "instacart",
+  "industry": "Tech",
+  "open_jobs": 90,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vercel",
+  "ats": "greenhouse",
+  "slug": "vercel",
+  "industry": "",
+  "open_jobs": 87,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Inversion Space",
+  "ats": "greenhouse",
+  "slug": "inversionspace",
+  "industry": "Industrials",
+  "open_jobs": 86,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Temporal",
+  "ats": "ashby",
+  "slug": "temporal",
+  "industry": "",
+  "open_jobs": 86,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Spotify",
+  "ats": "lever",
+  "slug": "spotify",
+  "industry": "",
+  "open_jobs": 85,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "1Password",
+  "ats": "ashby",
+  "slug": "1password",
+  "industry": "",
+  "open_jobs": 80,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vanta",
+  "ats": "ashby",
+  "slug": "vanta",
+  "industry": "B2B",
+  "open_jobs": 79,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gusto",
+  "ats": "greenhouse",
+  "slug": "gusto",
+  "industry": "B2B",
+  "open_jobs": 78,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "togetherai",
+  "ats": "greenhouse",
+  "slug": "togetherai",
+  "industry": "Tech",
+  "open_jobs": 78,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Supabase",
+  "ats": "ashby",
+  "slug": "supabase",
+  "industry": "B2B",
+  "open_jobs": 77,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Extreme Networks",
+  "ats": "lever",
+  "slug": "extremenetworks",
+  "industry": "",
+  "open_jobs": 76,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gojob",
+  "ats": "lever",
+  "slug": "gojob",
+  "industry": "",
+  "open_jobs": 76,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Jeeves",
+  "ats": "lever",
+  "slug": "tryjeeves",
+  "industry": "Fintech",
+  "open_jobs": 76,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "mercury",
+  "ats": "greenhouse",
+  "slug": "mercury",
+  "industry": "Tech",
+  "open_jobs": 76,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tailscale",
+  "ats": "greenhouse",
+  "slug": "tailscale",
+  "industry": "",
+  "open_jobs": 74,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hive",
+  "ats": "lever",
+  "slug": "hive",
+  "industry": "B2B",
+  "open_jobs": 72,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Alpaca",
+  "ats": "greenhouse",
+  "slug": "alpaca",
+  "industry": "Fintech",
+  "open_jobs": 71,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ashby",
+  "ats": "ashby",
+  "slug": "ashby",
+  "industry": "B2B",
+  "open_jobs": 71,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tide",
+  "ats": "greenhouse",
+  "slug": "tide",
+  "industry": "",
+  "open_jobs": 71,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Faire",
+  "ats": "greenhouse",
+  "slug": "faire",
+  "industry": "B2B",
+  "open_jobs": 69,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Truelogic",
+  "ats": "ashby",
+  "slug": "truelogic",
+  "industry": "",
+  "open_jobs": 69,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Exa",
+  "ats": "ashby",
+  "slug": "exa",
+  "industry": "B2B",
+  "open_jobs": 67,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Overview",
+  "ats": "ashby",
+  "slug": "overview",
+  "industry": "Industrials",
+  "open_jobs": 67,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AlphaSights>",
+  "ats": "greenhouse",
+  "slug": "alphasights",
+  "industry": "",
+  "open_jobs": 64,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Deepgram",
+  "ats": "ashby",
+  "slug": "deepgram",
+  "industry": "B2B",
+  "open_jobs": 63,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Human Interest",
+  "ats": "greenhouse",
+  "slug": "humaninterest",
+  "industry": "B2B",
+  "open_jobs": 62,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "REGENT",
+  "ats": "ashby",
+  "slug": "regent",
+  "industry": "Industrials",
+  "open_jobs": 62,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "duolingo",
+  "ats": "greenhouse",
+  "slug": "duolingo",
+  "industry": "Tech",
+  "open_jobs": 61,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Instructure",
+  "ats": "ashby",
+  "slug": "instructure",
+  "industry": "",
+  "open_jobs": 59,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Clear",
+  "ats": "greenhouse",
+  "slug": "clear",
+  "industry": "Fintech",
+  "open_jobs": 58,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fastly",
+  "ats": "greenhouse",
+  "slug": "fastly",
+  "industry": "",
+  "open_jobs": 56,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "amplitude",
+  "ats": "ashby",
+  "slug": "amplitude",
+  "industry": "Tech",
+  "open_jobs": 55,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Axle",
+  "ats": "greenhouse",
+  "slug": "axle",
+  "industry": "Fintech",
+  "open_jobs": 55,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Benchling",
+  "ats": "ashby",
+  "slug": "benchling",
+  "industry": "B2B",
+  "open_jobs": 55,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Docker",
+  "ats": "ashby",
+  "slug": "docker",
+  "industry": "B2B",
+  "open_jobs": 54,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tailor",
+  "ats": "ashby",
+  "slug": "tailor",
+  "industry": "B2B",
+  "open_jobs": 54,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Instawork",
+  "ats": "greenhouse",
+  "slug": "instawork",
+  "industry": "B2B",
+  "open_jobs": 53,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Campfire",
+  "ats": "ashby",
+  "slug": "campfire",
+  "industry": "B2B",
+  "open_jobs": 51,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cabify",
+  "ats": "greenhouse",
+  "slug": "cabify",
+  "industry": "",
+  "open_jobs": 50,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Turing",
+  "ats": "greenhouse",
+  "slug": "turing",
+  "industry": "",
+  "open_jobs": 49,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gigs",
+  "ats": "ashby",
+  "slug": "gigs",
+  "industry": "B2B",
+  "open_jobs": 48,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PagerDuty",
+  "ats": "greenhouse",
+  "slug": "pagerduty",
+  "industry": "",
+  "open_jobs": 48,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ClickUp",
+  "ats": "ashby",
+  "slug": "clickup",
+  "industry": "",
+  "open_jobs": 46,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Twenty",
+  "ats": "ashby",
+  "slug": "twenty",
+  "industry": "B2B",
+  "open_jobs": 46,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Stepful",
+  "ats": "ashby",
+  "slug": "stepful",
+  "industry": "Education",
+  "open_jobs": 45,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Apollo.io",
+  "ats": "greenhouse",
+  "slug": "apolloio",
+  "industry": "B2B",
+  "open_jobs": 44,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Astro Mechanica",
+  "ats": "ashby",
+  "slug": "astro-mechanica",
+  "industry": "Industrials",
+  "open_jobs": 44,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "voize",
+  "ats": "ashby",
+  "slug": "voize",
+  "industry": "B2B",
+  "open_jobs": 44,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Focal Systems",
+  "ats": "greenhouse",
+  "slug": "focalsystems",
+  "industry": "B2B",
+  "open_jobs": 43,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hudl",
+  "ats": "greenhouse",
+  "slug": "hudl",
+  "industry": "",
+  "open_jobs": 43,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "modal",
+  "ats": "ashby",
+  "slug": "modal",
+  "industry": "Tech",
+  "open_jobs": 43,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AfterQuery",
+  "ats": "ashby",
+  "slug": "afterquery",
+  "industry": "B2B",
+  "open_jobs": 42,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dropbox",
+  "ats": "greenhouse",
+  "slug": "dropbox",
+  "industry": "",
+  "open_jobs": 42,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kalshi",
+  "ats": "ashby",
+  "slug": "kalshi",
+  "industry": "Fintech",
+  "open_jobs": 41,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mixpanel",
+  "ats": "greenhouse",
+  "slug": "mixpanel",
+  "industry": "B2B",
+  "open_jobs": 41,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Modern Tribe",
+  "ats": "lever",
+  "slug": "tri",
+  "industry": "",
+  "open_jobs": 41,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Checkr",
+  "ats": "greenhouse",
+  "slug": "checkr",
+  "industry": "B2B",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Coursera",
+  "ats": "greenhouse",
+  "slug": "coursera",
+  "industry": "",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "HUD",
+  "ats": "ashby",
+  "slug": "hud",
+  "industry": "B2B",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Roboflow",
+  "ats": "ashby",
+  "slug": "roboflow",
+  "industry": "B2B",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sardine.ai",
+  "ats": "ashby",
+  "slug": "sardine",
+  "industry": "",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "sentry",
+  "ats": "ashby",
+  "slug": "sentry",
+  "industry": "Tech",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SingleStore",
+  "ats": "greenhouse",
+  "slug": "singlestore",
+  "industry": "B2B",
+  "open_jobs": 39,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Adaptyv",
+  "ats": "ashby",
+  "slug": "adaptyv",
+  "industry": "Healthcare",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Confido",
+  "ats": "ashby",
+  "slug": "confido",
+  "industry": "B2B",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Daybreak Health",
+  "ats": "greenhouse",
+  "slug": "daybreakhealth",
+  "industry": "Healthcare",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Encord",
+  "ats": "ashby",
+  "slug": "encord",
+  "industry": "B2B",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Harper",
+  "ats": "ashby",
+  "slug": "harperinsure",
+  "industry": "Fintech",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Juicebox",
+  "ats": "ashby",
+  "slug": "juicebox",
+  "industry": "B2B",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reducto",
+  "ats": "ashby",
+  "slug": "reducto",
+  "industry": "B2B",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Render",
+  "ats": "ashby",
+  "slug": "render",
+  "industry": "",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "snyk",
+  "ats": "ashby",
+  "slug": "snyk",
+  "industry": "Tech",
+  "open_jobs": 38,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ARQ",
+  "ats": "ashby",
+  "slug": "arq",
+  "industry": "Fintech",
+  "open_jobs": 37,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Clipboard",
+  "ats": "ashby",
+  "slug": "clipboard",
+  "industry": "Consumer",
+  "open_jobs": 37,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mapbox",
+  "ats": "ashby",
+  "slug": "mapbox",
+  "industry": "",
+  "open_jobs": 37,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SeatGeek",
+  "ats": "greenhouse",
+  "slug": "seatgeek",
+  "industry": "",
+  "open_jobs": 37,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Taktile",
+  "ats": "ashby",
+  "slug": "taktile",
+  "industry": "B2B",
+  "open_jobs": 37,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Wizeline",
+  "ats": "greenhouse",
+  "slug": "wizeline",
+  "industry": "",
+  "open_jobs": 37,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bitwarden",
+  "ats": "greenhouse",
+  "slug": "bitwarden",
+  "industry": "",
+  "open_jobs": 36,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "DataCamp",
+  "ats": "greenhouse",
+  "slug": "datacamp",
+  "industry": "",
+  "open_jobs": 36,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Litmus Software",
+  "ats": "ashby",
+  "slug": "litmus",
+  "industry": "",
+  "open_jobs": 36,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "May Mobility",
+  "ats": "greenhouse",
+  "slug": "maymobility",
+  "industry": "Industrials",
+  "open_jobs": 36,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nox Metals",
+  "ats": "ashby",
+  "slug": "nox-metals",
+  "industry": "Industrials",
+  "open_jobs": 35,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pleo",
+  "ats": "ashby",
+  "slug": "pleo",
+  "industry": "",
+  "open_jobs": 35,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Seeq",
+  "ats": "workable",
+  "slug": "seeq",
+  "industry": "",
+  "open_jobs": 35,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "WebFX",
+  "ats": "ashby",
+  "slug": "webfx",
+  "industry": "",
+  "open_jobs": 35,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Eight Sleep",
+  "ats": "ashby",
+  "slug": "eightsleep",
+  "industry": "Consumer",
+  "open_jobs": 34,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fieldguide",
+  "ats": "ashby",
+  "slug": "fieldguide",
+  "industry": "B2B",
+  "open_jobs": 34,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Moss",
+  "ats": "ashby",
+  "slug": "moss",
+  "industry": "B2B",
+  "open_jobs": 34,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Parallel Bio",
+  "ats": "ashby",
+  "slug": "parallel",
+  "industry": "Healthcare",
+  "open_jobs": 34,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Plane",
+  "ats": "ashby",
+  "slug": "plane",
+  "industry": "B2B",
+  "open_jobs": 34,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sysdig",
+  "ats": "lever",
+  "slug": "sysdig",
+  "industry": "",
+  "open_jobs": 34,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Akido Labs",
+  "ats": "greenhouse",
+  "slug": "akidolabs",
+  "industry": "Healthcare",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Axios",
+  "ats": "greenhouse",
+  "slug": "axios",
+  "industry": "",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bounteous",
+  "ats": "lever",
+  "slug": "bounteous",
+  "industry": "",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Linear",
+  "ats": "ashby",
+  "slug": "linear",
+  "industry": "",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Outset",
+  "ats": "ashby",
+  "slug": "outset",
+  "industry": "B2B",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pronto",
+  "ats": "greenhouse",
+  "slug": "pronto",
+  "industry": "Consumer",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Toptal",
+  "ats": "lever",
+  "slug": "toptal",
+  "industry": "",
+  "open_jobs": 33,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Onebrief",
+  "ats": "ashby",
+  "slug": "onebrief",
+  "industry": "B2B",
+  "open_jobs": 32,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Raft",
+  "ats": "greenhouse",
+  "slug": "raft",
+  "industry": "",
+  "open_jobs": 32,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SkydropX",
+  "ats": "ashby",
+  "slug": "skydropx",
+  "industry": "B2B",
+  "open_jobs": 32,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Speak",
+  "ats": "ashby",
+  "slug": "speak",
+  "industry": "Consumer",
+  "open_jobs": 32,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Verse Medical",
+  "ats": "ashby",
+  "slug": "versemedical",
+  "industry": "Healthcare",
+  "open_jobs": 32,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Algolia",
+  "ats": "greenhouse",
+  "slug": "algolia",
+  "industry": "B2B",
+  "open_jobs": 31,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gigs",
+  "ats": "greenhouse",
+  "slug": "gigs",
+  "industry": "B2B",
+  "open_jobs": 31,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "HackerRank",
+  "ats": "greenhouse",
+  "slug": "hackerrank",
+  "industry": "B2B",
+  "open_jobs": 31,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Replit",
+  "ats": "ashby",
+  "slug": "replit",
+  "industry": "B2B",
+  "open_jobs": 31,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Candid Health",
+  "ats": "ashby",
+  "slug": "candidhealth",
+  "industry": "Healthcare",
+  "open_jobs": 30,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Finn",
+  "ats": "lever",
+  "slug": "finn",
+  "industry": "Fintech",
+  "open_jobs": 30,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lio (formerly askLio)",
+  "ats": "ashby",
+  "slug": "lio",
+  "industry": "B2B",
+  "open_jobs": 30,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flex",
+  "ats": "ashby",
+  "slug": "flex",
+  "industry": "Fintech",
+  "open_jobs": 29,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GoDaddy",
+  "ats": "greenhouse",
+  "slug": "godaddy",
+  "industry": "",
+  "open_jobs": 29,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "iFit",
+  "ats": "greenhouse",
+  "slug": "ifit",
+  "industry": "",
+  "open_jobs": 29,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "nerdwallet",
+  "ats": "ashby",
+  "slug": "nerdwallet",
+  "industry": "",
+  "open_jobs": 29,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prolific",
+  "ats": "greenhouse",
+  "slug": "prolific",
+  "industry": "B2B",
+  "open_jobs": 29,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tremendous",
+  "ats": "ashby",
+  "slug": "tremendous",
+  "industry": "Fintech",
+  "open_jobs": 29,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bird",
+  "ats": "greenhouse",
+  "slug": "bird",
+  "industry": "B2B",
+  "open_jobs": 28,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CoLab",
+  "ats": "greenhouse",
+  "slug": "colabsoftware",
+  "industry": "B2B",
+  "open_jobs": 28,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flex",
+  "ats": "greenhouse",
+  "slug": "flex",
+  "industry": "Fintech",
+  "open_jobs": 28,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Icarus",
+  "ats": "greenhouse",
+  "slug": "icarus",
+  "industry": "Industrials",
+  "open_jobs": 28,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kalshi",
+  "ats": "greenhouse",
+  "slug": "kalshi",
+  "industry": "Fintech",
+  "open_jobs": 28,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vetcove",
+  "ats": "ashby",
+  "slug": "vetcove",
+  "industry": "B2B",
+  "open_jobs": 28,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Customer.io",
+  "ats": "greenhouse",
+  "slug": "customerio",
+  "industry": "",
+  "open_jobs": 27,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "General Assembly",
+  "ats": "greenhouse",
+  "slug": "generalassembly",
+  "industry": "",
+  "open_jobs": 27,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nearform",
+  "ats": "greenhouse",
+  "slug": "nearform",
+  "industry": "",
+  "open_jobs": 27,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Toku",
+  "ats": "ashby",
+  "slug": "toku",
+  "industry": "B2B",
+  "open_jobs": 27,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "WorkOS",
+  "ats": "ashby",
+  "slug": "workos",
+  "industry": "",
+  "open_jobs": 27,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nectar",
+  "ats": "ashby",
+  "slug": "nectar",
+  "industry": "Industrials",
+  "open_jobs": 26,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "OpenRouter",
+  "ats": "ashby",
+  "slug": "openrouter",
+  "industry": "",
+  "open_jobs": 26,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pylon",
+  "ats": "ashby",
+  "slug": "pylon",
+  "industry": "B2B",
+  "open_jobs": 26,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rivet",
+  "ats": "ashby",
+  "slug": "rivet",
+  "industry": "B2B",
+  "open_jobs": 26,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "BlueCat Networks",
+  "ats": "lever",
+  "slug": "bluecatnetworks",
+  "industry": "",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Discord",
+  "ats": "greenhouse",
+  "slug": "discord",
+  "industry": "",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Heetch",
+  "ats": "lever",
+  "slug": "heetch",
+  "industry": "",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PermitFlow",
+  "ats": "ashby",
+  "slug": "permitflow",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Shepherd",
+  "ats": "ashby",
+  "slug": "shepherd",
+  "industry": "Fintech",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Teleport",
+  "ats": "ashby",
+  "slug": "goteleport",
+  "industry": "B2B",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Webflow",
+  "ats": "ashby",
+  "slug": "webflow",
+  "industry": "B2B",
+  "open_jobs": 25,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "anyscale",
+  "ats": "ashby",
+  "slug": "anyscale",
+  "industry": "Tech",
+  "open_jobs": 24,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Curri",
+  "ats": "ashby",
+  "slug": "curri",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 24,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Firecrawl",
+  "ats": "ashby",
+  "slug": "firecrawl",
+  "industry": "B2B",
+  "open_jobs": 24,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Latent",
+  "ats": "ashby",
+  "slug": "latent",
+  "industry": "Healthcare",
+  "open_jobs": 24,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Odeko",
+  "ats": "greenhouse",
+  "slug": "odeko",
+  "industry": "B2B",
+  "open_jobs": 24,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AiPrise",
+  "ats": "ashby",
+  "slug": "aiprise",
+  "industry": "Fintech",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AirGarage",
+  "ats": "ashby",
+  "slug": "airgarage",
+  "industry": "",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Broccoli AI",
+  "ats": "ashby",
+  "slug": "broccoli",
+  "industry": "B2B",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Envoy",
+  "ats": "ashby",
+  "slug": "envoy",
+  "industry": "",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Honeycomb",
+  "ats": "greenhouse",
+  "slug": "honeycomb",
+  "industry": "",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hopper",
+  "ats": "ashby",
+  "slug": "hopper",
+  "industry": "",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nash",
+  "ats": "ashby",
+  "slug": "nash",
+  "industry": "B2B",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Udacity",
+  "ats": "greenhouse",
+  "slug": "udacity",
+  "industry": "",
+  "open_jobs": 23,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gecko Robotics",
+  "ats": "ashby",
+  "slug": "gecko-robotics",
+  "industry": "Industrials",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Human Archive",
+  "ats": "ashby",
+  "slug": "humanarchive",
+  "industry": "Industrials",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "LemFi",
+  "ats": "ashby",
+  "slug": "lemfi",
+  "industry": "Fintech",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mesh",
+  "ats": "greenhouse",
+  "slug": "mesh",
+  "industry": "B2B",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mesh",
+  "ats": "ashby",
+  "slug": "mesh",
+  "industry": "B2B",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Parallel Bio",
+  "ats": "greenhouse",
+  "slug": "parallel",
+  "industry": "Healthcare",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tennr",
+  "ats": "ashby",
+  "slug": "tennr",
+  "industry": "B2B",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Virta Health",
+  "ats": "ashby",
+  "slug": "virtahealth",
+  "industry": "",
+  "open_jobs": 22,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CaptivateIQ",
+  "ats": "lever",
+  "slug": "captivateiq",
+  "industry": "B2B",
+  "open_jobs": 21,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CaptivateIQ",
+  "ats": "ashby",
+  "slug": "captivateiq",
+  "industry": "B2B",
+  "open_jobs": 21,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Conveo",
+  "ats": "ashby",
+  "slug": "conveo",
+  "industry": "B2B",
+  "open_jobs": 21,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "fleetio",
+  "ats": "greenhouse",
+  "slug": "fleetio",
+  "industry": "",
+  "open_jobs": 21,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Porter",
+  "ats": "lever",
+  "slug": "porter",
+  "industry": "B2B",
+  "open_jobs": 21,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ClaimSorted",
+  "ats": "ashby",
+  "slug": "claimsorted",
+  "industry": "Fintech",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fingerprint",
+  "ats": "greenhouse",
+  "slug": "fingerprint",
+  "industry": "",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Netomi",
+  "ats": "lever",
+  "slug": "netomi",
+  "industry": "B2B",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Padlet",
+  "ats": "ashby",
+  "slug": "padlet",
+  "industry": "B2B",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Retell AI",
+  "ats": "ashby",
+  "slug": "retell-ai",
+  "industry": "B2B",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Skyways",
+  "ats": "lever",
+  "slug": "skyways",
+  "industry": "Industrials",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vox Media (Product Team)",
+  "ats": "greenhouse",
+  "slug": "voxmedia",
+  "industry": "",
+  "open_jobs": 20,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Alchemy",
+  "ats": "ashby",
+  "slug": "alchemy",
+  "industry": "Industrials",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AssemblyAI",
+  "ats": "greenhouse",
+  "slug": "assemblyai",
+  "industry": "B2B",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Astronomer",
+  "ats": "ashby",
+  "slug": "astronomer",
+  "industry": "",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Coast",
+  "ats": "greenhouse",
+  "slug": "coast",
+  "industry": "B2B",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "RADAR",
+  "ats": "ashby",
+  "slug": "radar",
+  "industry": "B2B",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Short Story",
+  "ats": "ashby",
+  "slug": "shortstory",
+  "industry": "Consumer",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Substack",
+  "ats": "ashby",
+  "slug": "substack",
+  "industry": "B2B",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sygaldry Technologies",
+  "ats": "ashby",
+  "slug": "sygaldry-technologies",
+  "industry": "Industrials",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tavus",
+  "ats": "ashby",
+  "slug": "tavus",
+  "industry": "B2B",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Thrive Market",
+  "ats": "greenhouse",
+  "slug": "thrivemarket",
+  "industry": "",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Xendit",
+  "ats": "greenhouse",
+  "slug": "xendit",
+  "industry": "Fintech",
+  "open_jobs": 19,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Blacksmith",
+  "ats": "ashby",
+  "slug": "blacksmith",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "FamPay",
+  "ats": "lever",
+  "slug": "fampay",
+  "industry": "Fintech",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gridware",
+  "ats": "lever",
+  "slug": "gridware",
+  "industry": "Industrials",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kombo",
+  "ats": "ashby",
+  "slug": "kombo",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MeridianLink",
+  "ats": "ashby",
+  "slug": "meridianlink",
+  "industry": "",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nabis",
+  "ats": "greenhouse",
+  "slug": "nabis",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "OpenWork",
+  "ats": "greenhouse",
+  "slug": "openwork",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Quindar",
+  "ats": "ashby",
+  "slug": "quindar",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Qventus",
+  "ats": "greenhouse",
+  "slug": "qventus",
+  "industry": "Healthcare",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rescale",
+  "ats": "ashby",
+  "slug": "rescale",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Snappr",
+  "ats": "lever",
+  "slug": "snappr",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Solve Intelligence",
+  "ats": "ashby",
+  "slug": "solveintelligence",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Swayable",
+  "ats": "greenhouse",
+  "slug": "swayable",
+  "industry": "B2B",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Turion Space",
+  "ats": "ashby",
+  "slug": "turion-space",
+  "industry": "Industrials",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "VGS",
+  "ats": "lever",
+  "slug": "verygoodsecurity",
+  "industry": "",
+  "open_jobs": 18,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AIOS",
+  "ats": "ashby",
+  "slug": "aios",
+  "industry": "Healthcare",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "David AI",
+  "ats": "ashby",
+  "slug": "david-ai",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flip",
+  "ats": "ashby",
+  "slug": "flip",
+  "industry": "",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fours",
+  "ats": "lever",
+  "slug": "fours",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Glide",
+  "ats": "lever",
+  "slug": "glide",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GOAT Group",
+  "ats": "greenhouse",
+  "slug": "goatgroup",
+  "industry": "Consumer",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hubble Network",
+  "ats": "greenhouse",
+  "slug": "hubblenetwork",
+  "industry": "Industrials",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kastle",
+  "ats": "ashby",
+  "slug": "kastle",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "KERNEL",
+  "ats": "ashby",
+  "slug": "kernel",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Metriport",
+  "ats": "ashby",
+  "slug": "metriport",
+  "industry": "Healthcare",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Middesk",
+  "ats": "ashby",
+  "slug": "middesk",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Phonely",
+  "ats": "ashby",
+  "slug": "phonely",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rakuten Travel Xchange",
+  "ats": "greenhouse",
+  "slug": "solutions",
+  "industry": "",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sphere",
+  "ats": "ashby",
+  "slug": "sphere",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Thndr",
+  "ats": "ashby",
+  "slug": "thndr",
+  "industry": "Fintech",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Trellis AI",
+  "ats": "ashby",
+  "slug": "runtrellis",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Uplane",
+  "ats": "ashby",
+  "slug": "uplane",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Warp",
+  "ats": "ashby",
+  "slug": "warp",
+  "industry": "B2B",
+  "open_jobs": 17,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ACLU",
+  "ats": "greenhouse",
+  "slug": "aclu",
+  "industry": "Unspecified",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Appen",
+  "ats": "lever",
+  "slug": "appen",
+  "industry": "",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bland AI",
+  "ats": "ashby",
+  "slug": "bland",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Codes Health",
+  "ats": "ashby",
+  "slug": "codes-health",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dashlane",
+  "ats": "greenhouse",
+  "slug": "dashlane",
+  "industry": "",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Equal Experts Portugal",
+  "ats": "greenhouse",
+  "slug": "equalexperts",
+  "industry": "",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flai",
+  "ats": "ashby",
+  "slug": "flai",
+  "industry": "Industrials",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Greptile",
+  "ats": "ashby",
+  "slug": "greptile",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "H1",
+  "ats": "lever",
+  "slug": "h1",
+  "industry": "Healthcare",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hedge",
+  "ats": "ashby",
+  "slug": "hedge",
+  "industry": "Fintech",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "LiteLLM",
+  "ats": "ashby",
+  "slug": "litellm",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Luminai",
+  "ats": "ashby",
+  "slug": "luminai",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mach9",
+  "ats": "ashby",
+  "slug": "mach9",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Odys Aviation",
+  "ats": "ashby",
+  "slug": "odys-aviation",
+  "industry": "Industrials",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pocket",
+  "ats": "ashby",
+  "slug": "pocket",
+  "industry": "Consumer",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reacher",
+  "ats": "ashby",
+  "slug": "reacher",
+  "industry": "B2B",
+  "open_jobs": 16,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Aleph",
+  "ats": "ashby",
+  "slug": "aleph",
+  "industry": "B2B",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CircleCI",
+  "ats": "greenhouse",
+  "slug": "circleci",
+  "industry": "",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ClassDojo",
+  "ats": "ashby",
+  "slug": "classdojo",
+  "industry": "Education",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "FirstWork",
+  "ats": "ashby",
+  "slug": "firstwork",
+  "industry": "B2B",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Glitch",
+  "ats": "ashby",
+  "slug": "glitch",
+  "industry": "",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Homebase",
+  "ats": "ashby",
+  "slug": "homebase",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Junction",
+  "ats": "ashby",
+  "slug": "junction",
+  "industry": "Healthcare",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pelago",
+  "ats": "greenhouse",
+  "slug": "pelago",
+  "industry": "Healthcare",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Povio",
+  "ats": "workable",
+  "slug": "povio",
+  "industry": "B2B",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Primer",
+  "ats": "ashby",
+  "slug": "primer",
+  "industry": "",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sieve",
+  "ats": "ashby",
+  "slug": "sieve",
+  "industry": "B2B",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Super",
+  "ats": "greenhouse",
+  "slug": "super",
+  "industry": "Consumer",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Superside",
+  "ats": "lever",
+  "slug": "superside",
+  "industry": "B2B",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vitalize",
+  "ats": "ashby",
+  "slug": "vitalize",
+  "industry": "Healthcare",
+  "open_jobs": 15,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Airbyte",
+  "ats": "ashby",
+  "slug": "airbyte",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Camber",
+  "ats": "ashby",
+  "slug": "camber",
+  "industry": "Healthcare",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Canary Technologies",
+  "ats": "lever",
+  "slug": "canarytechnologies",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Charge Robotics",
+  "ats": "ashby",
+  "slug": "charge-robotics",
+  "industry": "Industrials",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Doximity",
+  "ats": "greenhouse",
+  "slug": "doximity",
+  "industry": "",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Extend",
+  "ats": "greenhouse",
+  "slug": "extend",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mintlify",
+  "ats": "ashby",
+  "slug": "mintlify",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Momentic",
+  "ats": "greenhouse",
+  "slug": "momentic",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Multiply Labs",
+  "ats": "lever",
+  "slug": "multiplylabs",
+  "industry": "Industrials",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Numeral",
+  "ats": "ashby",
+  "slug": "numeral",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ophelia",
+  "ats": "greenhouse",
+  "slug": "ophelia",
+  "industry": "Healthcare",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PointOne",
+  "ats": "ashby",
+  "slug": "pointone",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prodigal",
+  "ats": "greenhouse",
+  "slug": "prodigal",
+  "industry": "Fintech",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pyka",
+  "ats": "lever",
+  "slug": "pyka",
+  "industry": "Industrials",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Resend",
+  "ats": "ashby",
+  "slug": "resend",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Salient",
+  "ats": "ashby",
+  "slug": "salient",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "telli",
+  "ats": "ashby",
+  "slug": "telli",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Topline Pro",
+  "ats": "ashby",
+  "slug": "topline-pro",
+  "industry": "B2B",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Triomics",
+  "ats": "ashby",
+  "slug": "triomics",
+  "industry": "Healthcare",
+  "open_jobs": 14,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Attain",
+  "ats": "greenhouse",
+  "slug": "attain",
+  "industry": "B2B",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Axiom",
+  "ats": "greenhouse",
+  "slug": "axiom",
+  "industry": "Fintech",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bree",
+  "ats": "ashby",
+  "slug": "bree",
+  "industry": "Fintech",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CircuitHub",
+  "ats": "ashby",
+  "slug": "circuithub",
+  "industry": "Industrials",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "cockroachlabs",
+  "ats": "greenhouse",
+  "slug": "cockroachlabs",
+  "industry": "Tech",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Eloquent AI",
+  "ats": "ashby",
+  "slug": "eloquentai",
+  "industry": "B2B",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flip",
+  "ats": "greenhouse",
+  "slug": "flip",
+  "industry": "",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GiveCampus",
+  "ats": "greenhouse",
+  "slug": "givecampus",
+  "industry": "Education",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "miro",
+  "ats": "ashby",
+  "slug": "miro",
+  "industry": "Tech",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MorphoAI",
+  "ats": "ashby",
+  "slug": "morpho",
+  "industry": "Industrials",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mytos",
+  "ats": "lever",
+  "slug": "mytos",
+  "industry": "Healthcare",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Olo",
+  "ats": "lever",
+  "slug": "olo",
+  "industry": "",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Percona",
+  "ats": "ashby",
+  "slug": "percona",
+  "industry": "",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Promise",
+  "ats": "ashby",
+  "slug": "promise",
+  "industry": "Government",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Quo (fka OpenPhone)",
+  "ats": "ashby",
+  "slug": "quo",
+  "industry": "B2B",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Relling",
+  "ats": "ashby",
+  "slug": "relling",
+  "industry": "B2B",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SigNoz",
+  "ats": "ashby",
+  "slug": "signoz",
+  "industry": "B2B",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Stitch Fix",
+  "ats": "greenhouse",
+  "slug": "stitchfix",
+  "industry": "",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ziina",
+  "ats": "ashby",
+  "slug": "ziina",
+  "industry": "Fintech",
+  "open_jobs": 13,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Abacum",
+  "ats": "ashby",
+  "slug": "abacum",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Avoca",
+  "ats": "ashby",
+  "slug": "avoca",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Blue",
+  "ats": "lever",
+  "slug": "blue",
+  "industry": "Consumer",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Brave",
+  "ats": "greenhouse",
+  "slug": "brave",
+  "industry": "",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ConsenSys Inc",
+  "ats": "greenhouse",
+  "slug": "consensys",
+  "industry": "",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fours",
+  "ats": "ashby",
+  "slug": "fours",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gumloop",
+  "ats": "ashby",
+  "slug": "gumloop",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Infisical",
+  "ats": "ashby",
+  "slug": "infisical",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lucis",
+  "ats": "ashby",
+  "slug": "lucis",
+  "industry": "Healthcare",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Novig",
+  "ats": "ashby",
+  "slug": "novig",
+  "industry": "Consumer",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Phoenix",
+  "ats": "ashby",
+  "slug": "phoenix",
+  "industry": "Healthcare",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "planetscale",
+  "ats": "greenhouse",
+  "slug": "planetscale",
+  "industry": "Tech",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prelude",
+  "ats": "ashby",
+  "slug": "prelude",
+  "industry": "",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prosper",
+  "ats": "lever",
+  "slug": "prosper",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rivia.AI",
+  "ats": "ashby",
+  "slug": "rivia",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SearchApi",
+  "ats": "ashby",
+  "slug": "searchapi",
+  "industry": "",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sonatype",
+  "ats": "lever",
+  "slug": "sonatype",
+  "industry": "",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Spade",
+  "ats": "ashby",
+  "slug": "spade",
+  "industry": "Fintech",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Switchboard",
+  "ats": "ashby",
+  "slug": "switchboard",
+  "industry": "B2B",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "addstructure",
+  "ats": "lever",
+  "slug": "bazaarvoice",
+  "industry": "",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Appinio",
+  "ats": "greenhouse",
+  "slug": "appinio",
+  "industry": "",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Aspora",
+  "ats": "ashby",
+  "slug": "aspora",
+  "industry": "Fintech",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Auctor",
+  "ats": "ashby",
+  "slug": "auctor",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bitmovin",
+  "ats": "greenhouse",
+  "slug": "bitmovin",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Blissway",
+  "ats": "ashby",
+  "slug": "blissway",
+  "industry": "Government",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dave",
+  "ats": "ashby",
+  "slug": "dave",
+  "industry": "",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Humaans",
+  "ats": "ashby",
+  "slug": "humaans",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Langdock",
+  "ats": "ashby",
+  "slug": "langdock",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Magic",
+  "ats": "ashby",
+  "slug": "magic",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MarqVision",
+  "ats": "greenhouse",
+  "slug": "marqvision",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mattermost",
+  "ats": "greenhouse",
+  "slug": "mattermost",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mindful",
+  "ats": "lever",
+  "slug": "mindful",
+  "industry": "",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Observe.AI",
+  "ats": "greenhouse",
+  "slug": "observeai",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Oddball",
+  "ats": "greenhouse",
+  "slug": "oddball",
+  "industry": "",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Oneleet",
+  "ats": "ashby",
+  "slug": "oneleet",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PayScale",
+  "ats": "ashby",
+  "slug": "payscale",
+  "industry": "",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Recidiviz",
+  "ats": "greenhouse",
+  "slug": "recidiviz",
+  "industry": "Government",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Spaceium Inc",
+  "ats": "greenhouse",
+  "slug": "spaceium",
+  "industry": "Industrials",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Spellbrush",
+  "ats": "ashby",
+  "slug": "spellbrush",
+  "industry": "Consumer",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tovala",
+  "ats": "lever",
+  "slug": "tovala",
+  "industry": "Consumer",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Veriff",
+  "ats": "greenhouse",
+  "slug": "veriff",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vooma",
+  "ats": "ashby",
+  "slug": "vooma",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vori",
+  "ats": "ashby",
+  "slug": "vori",
+  "industry": "B2B",
+  "open_jobs": 11,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "activecampaign",
+  "ats": "lever",
+  "slug": "activecampaign",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Anima",
+  "ats": "ashby",
+  "slug": "anima",
+  "industry": "Healthcare",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bankjoy",
+  "ats": "ashby",
+  "slug": "bankjoy",
+  "industry": "Fintech",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Boom",
+  "ats": "ashby",
+  "slug": "boom",
+  "industry": "Industrials",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Brighterway",
+  "ats": "ashby",
+  "slug": "brighterway",
+  "industry": "Fintech",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cinder",
+  "ats": "ashby",
+  "slug": "cinder",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Circleback",
+  "ats": "ashby",
+  "slug": "circleback",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Claim Health",
+  "ats": "ashby",
+  "slug": "claim-health",
+  "industry": "Healthcare",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Duffel",
+  "ats": "ashby",
+  "slug": "duffel",
+  "industry": "Consumer",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flint",
+  "ats": "ashby",
+  "slug": "flint",
+  "industry": "Healthcare",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Halluminate",
+  "ats": "ashby",
+  "slug": "halluminate",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hive",
+  "ats": "greenhouse",
+  "slug": "hive",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Karat",
+  "ats": "greenhouse",
+  "slug": "karat",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Labelbox",
+  "ats": "greenhouse",
+  "slug": "labelbox",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Launch Potato",
+  "ats": "greenhouse",
+  "slug": "launchpotato",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Muck Rack",
+  "ats": "greenhouse",
+  "slug": "muckrack",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Posh",
+  "ats": "ashby",
+  "slug": "posh",
+  "industry": "Industrials",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PostHog",
+  "ats": "ashby",
+  "slug": "posthog",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Raindrop",
+  "ats": "ashby",
+  "slug": "raindrop",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "REGENT",
+  "ats": "greenhouse",
+  "slug": "regent",
+  "industry": "Industrials",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "RevenueCat",
+  "ats": "ashby",
+  "slug": "revenuecat",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Salt Security",
+  "ats": "greenhouse",
+  "slug": "saltsecurity",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Scandit",
+  "ats": "greenhouse",
+  "slug": "scandit",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SecurityScorecard",
+  "ats": "greenhouse",
+  "slug": "securityscorecard",
+  "industry": "",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Simple AI",
+  "ats": "ashby",
+  "slug": "simple-ai",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Wafer",
+  "ats": "ashby",
+  "slug": "wafer",
+  "industry": "B2B",
+  "open_jobs": 10,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Agave",
+  "ats": "ashby",
+  "slug": "agave",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AgentMail",
+  "ats": "ashby",
+  "slug": "agentmail",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AirHelp",
+  "ats": "workable",
+  "slug": "airhelp",
+  "industry": "Consumer",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "airtable",
+  "ats": "greenhouse",
+  "slug": "airtable",
+  "industry": "Tech",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ansa Biotechnologies",
+  "ats": "greenhouse",
+  "slug": "ansabiotechnologies",
+  "industry": "Healthcare",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Asimov",
+  "ats": "ashby",
+  "slug": "asimov",
+  "industry": "Industrials",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "BriteCore",
+  "ats": "lever",
+  "slug": "britecore",
+  "industry": "",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bunkerhill Health",
+  "ats": "ashby",
+  "slug": "bunkerhillhealth",
+  "industry": "Healthcare",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dataleap",
+  "ats": "ashby",
+  "slug": "dataleap",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dyneti Technologies",
+  "ats": "ashby",
+  "slug": "dyneti",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Elyos AI",
+  "ats": "ashby",
+  "slug": "elyos",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Emi Labs",
+  "ats": "lever",
+  "slug": "emilabs",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Finary.com",
+  "ats": "ashby",
+  "slug": "finary",
+  "industry": "Fintech",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "FurtherAI",
+  "ats": "ashby",
+  "slug": "furtherai",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Glide",
+  "ats": "ashby",
+  "slug": "glide",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Grou.ps",
+  "ats": "ashby",
+  "slug": "build",
+  "industry": "",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Handoff",
+  "ats": "lever",
+  "slug": "handoff",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Healthtech 1",
+  "ats": "ashby",
+  "slug": "healthtech-1",
+  "industry": "Healthcare",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mashgin",
+  "ats": "lever",
+  "slug": "mashgin",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mercura",
+  "ats": "ashby",
+  "slug": "mercura",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "neon",
+  "ats": "lever",
+  "slug": "neon",
+  "industry": "Tech",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prospa",
+  "ats": "greenhouse",
+  "slug": "prospa",
+  "industry": "Fintech",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SafetyKit",
+  "ats": "ashby",
+  "slug": "safetykit",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Solidroad",
+  "ats": "ashby",
+  "slug": "solidroad",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Titan",
+  "ats": "ashby",
+  "slug": "titan",
+  "industry": "Fintech",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Variance",
+  "ats": "ashby",
+  "slug": "variance",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Wonderly",
+  "ats": "ashby",
+  "slug": "wonderly",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Y Combinator",
+  "ats": "ashby",
+  "slug": "ycombinator",
+  "industry": "Fintech",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Zapier",
+  "ats": "ashby",
+  "slug": "zapier",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Zerocater",
+  "ats": "greenhouse",
+  "slug": "zerocater",
+  "industry": "B2B",
+  "open_jobs": 9,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "90 Seconds",
+  "ats": "lever",
+  "slug": "90seconds",
+  "industry": "",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Abundant",
+  "ats": "ashby",
+  "slug": "abundant",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Albedo",
+  "ats": "greenhouse",
+  "slug": "albedo",
+  "industry": "Industrials",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Anthrogen",
+  "ats": "ashby",
+  "slug": "anthrogen",
+  "industry": "Healthcare",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Arketa",
+  "ats": "ashby",
+  "slug": "arketa",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Beyond Reach Labs",
+  "ats": "ashby",
+  "slug": "beyondreachlabs",
+  "industry": "Industrials",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "burnt",
+  "ats": "greenhouse",
+  "slug": "burnt",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Comena",
+  "ats": "ashby",
+  "slug": "comena",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Corvus Robotics",
+  "ats": "ashby",
+  "slug": "corvus-robotics",
+  "industry": "Industrials",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "DiligenceSquared",
+  "ats": "ashby",
+  "slug": "diligencesquared",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Escape",
+  "ats": "ashby",
+  "slug": "escape",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "General Proximity",
+  "ats": "greenhouse",
+  "slug": "generalproximity",
+  "industry": "Healthcare",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "InfluxData",
+  "ats": "ashby",
+  "slug": "influxdata",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Interfere",
+  "ats": "ashby",
+  "slug": "interfere",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Jiga",
+  "ats": "ashby",
+  "slug": "jiga",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "LanceDB",
+  "ats": "ashby",
+  "slug": "lancedb",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lapel",
+  "ats": "ashby",
+  "slug": "lapel",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "LogRocket",
+  "ats": "lever",
+  "slug": "logrocket",
+  "industry": "",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MaverickX",
+  "ats": "lever",
+  "slug": "maverickx",
+  "industry": "Industrials",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nango",
+  "ats": "ashby",
+  "slug": "nango",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Panorama Education",
+  "ats": "workable",
+  "slug": "panorama-education",
+  "industry": "Education",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "platform.sh",
+  "ats": "greenhouse",
+  "slug": "platformsh",
+  "industry": "",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Procurify",
+  "ats": "ashby",
+  "slug": "procurify",
+  "industry": "",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Quora",
+  "ats": "ashby",
+  "slug": "quora",
+  "industry": "",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "RADAR",
+  "ats": "greenhouse",
+  "slug": "radar",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SalesPatriot",
+  "ats": "ashby",
+  "slug": "salespatriot",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Simetrik",
+  "ats": "ashby",
+  "slug": "simetrik",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Stable",
+  "ats": "ashby",
+  "slug": "stable",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "TeamSnap",
+  "ats": "lever",
+  "slug": "teamsnap",
+  "industry": "",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Unusual",
+  "ats": "lever",
+  "slug": "unusual",
+  "industry": "B2B",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vera Health",
+  "ats": "ashby",
+  "slug": "verahealth",
+  "industry": "Healthcare",
+  "open_jobs": 8,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AEStudio",
+  "ats": "greenhouse",
+  "slug": "aestudio",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Andela",
+  "ats": "ashby",
+  "slug": "andela",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AtoB",
+  "ats": "ashby",
+  "slug": "atob",
+  "industry": "Fintech",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Aurelian",
+  "ats": "ashby",
+  "slug": "aurelian",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Axle Health",
+  "ats": "ashby",
+  "slug": "axle-health",
+  "industry": "Healthcare",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Beam",
+  "ats": "greenhouse",
+  "slug": "beam",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "BetterUp",
+  "ats": "ashby",
+  "slug": "betterup",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Capchase",
+  "ats": "ashby",
+  "slug": "capchase",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cardboard",
+  "ats": "ashby",
+  "slug": "cardboard",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Clarion",
+  "ats": "ashby",
+  "slug": "clarion",
+  "industry": "Healthcare",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Concourse",
+  "ats": "ashby",
+  "slug": "concourse",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dispatch",
+  "ats": "ashby",
+  "slug": "dispatch",
+  "industry": "Industrials",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ditto",
+  "ats": "ashby",
+  "slug": "ditto",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "doola",
+  "ats": "lever",
+  "slug": "doola",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "FleetWorks",
+  "ats": "ashby",
+  "slug": "fleetworks",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kodex",
+  "ats": "ashby",
+  "slug": "kodex",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lance",
+  "ats": "ashby",
+  "slug": "lance",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lifen",
+  "ats": "ashby",
+  "slug": "lifen",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Locus Robotics",
+  "ats": "greenhouse",
+  "slug": "locusrobotics",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Magic Patterns",
+  "ats": "ashby",
+  "slug": "magicpatterns",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Modern Treasury",
+  "ats": "ashby",
+  "slug": "moderntreasury",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mutiny",
+  "ats": "ashby",
+  "slug": "mutiny",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nomic Bio",
+  "ats": "ashby",
+  "slug": "nomic",
+  "industry": "Healthcare",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Notabene",
+  "ats": "ashby",
+  "slug": "notabene",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nova Credit",
+  "ats": "greenhouse",
+  "slug": "novacredit",
+  "industry": "Fintech",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Osmosis",
+  "ats": "greenhouse",
+  "slug": "osmosis",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Parameter",
+  "ats": "ashby",
+  "slug": "parameter",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Photoroom",
+  "ats": "ashby",
+  "slug": "photoroom",
+  "industry": "Consumer",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prelim",
+  "ats": "ashby",
+  "slug": "prelim",
+  "industry": "Fintech",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Railway",
+  "ats": "ashby",
+  "slug": "railway",
+  "industry": "",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Remora",
+  "ats": "greenhouse",
+  "slug": "remoracarbon",
+  "industry": "Industrials",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Roofr",
+  "ats": "greenhouse",
+  "slug": "roofr",
+  "industry": "Consumer",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SF Tensor",
+  "ats": "ashby",
+  "slug": "sf-tensor",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sift",
+  "ats": "ashby",
+  "slug": "sift",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SnapMagic",
+  "ats": "ashby",
+  "slug": "snapmagic",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sola",
+  "ats": "ashby",
+  "slug": "sola",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SpruceID",
+  "ats": "ashby",
+  "slug": "spruceid",
+  "industry": "Government",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sweep",
+  "ats": "ashby",
+  "slug": "sweep",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tamarind Bio",
+  "ats": "ashby",
+  "slug": "tamarindbio",
+  "industry": "B2B",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Text.ai",
+  "ats": "lever",
+  "slug": "text",
+  "industry": "Consumer",
+  "open_jobs": 7,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Andromeda Surgical",
+  "ats": "ashby",
+  "slug": "andromedasurgical",
+  "industry": "Healthcare",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Anomali",
+  "ats": "lever",
+  "slug": "anomali",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Artie",
+  "ats": "ashby",
+  "slug": "artie",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Atomic",
+  "ats": "ashby",
+  "slug": "atomic",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Automat",
+  "ats": "ashby",
+  "slug": "automat",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bolna AI",
+  "ats": "ashby",
+  "slug": "bolna",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Brainbase Labs",
+  "ats": "ashby",
+  "slug": "brainbaselabs",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bretton AI",
+  "ats": "ashby",
+  "slug": "brettonai",
+  "industry": "Fintech",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Calendly",
+  "ats": "greenhouse",
+  "slug": "calendly",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cambio",
+  "ats": "ashby",
+  "slug": "cambio",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Casca",
+  "ats": "ashby",
+  "slug": "casca",
+  "industry": "Fintech",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Chroma",
+  "ats": "ashby",
+  "slug": "chromatic",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Complete",
+  "ats": "ashby",
+  "slug": "complete",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ConsenSys Inc",
+  "ats": "ashby",
+  "slug": "consensys",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Credal.ai",
+  "ats": "ashby",
+  "slug": "credal",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Diligent",
+  "ats": "greenhouse",
+  "slug": "diligent",
+  "industry": "Fintech",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dodo",
+  "ats": "ashby",
+  "slug": "dodo",
+  "industry": "Healthcare",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Enode",
+  "ats": "ashby",
+  "slug": "enode",
+  "industry": "Industrials",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Finch",
+  "ats": "lever",
+  "slug": "finch",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fleek",
+  "ats": "ashby",
+  "slug": "fleek",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Freshpaint",
+  "ats": "ashby",
+  "slug": "freshpaint",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Great Question",
+  "ats": "ashby",
+  "slug": "greatquestion",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Greenboard",
+  "ats": "ashby",
+  "slug": "greenboard",
+  "industry": "Fintech",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Help Scout",
+  "ats": "ashby",
+  "slug": "helpscout",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Invert",
+  "ats": "ashby",
+  "slug": "invert",
+  "industry": "Healthcare",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Julius",
+  "ats": "ashby",
+  "slug": "julius",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kindred",
+  "ats": "ashby",
+  "slug": "kindred",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "LiveFlow",
+  "ats": "ashby",
+  "slug": "liveflow",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Meticulous",
+  "ats": "ashby",
+  "slug": "meticulous",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Octopus Deploy",
+  "ats": "greenhouse",
+  "slug": "octopusdeploy",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "OpenZeppelin",
+  "ats": "greenhouse",
+  "slug": "openzeppelin",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Paradigm",
+  "ats": "ashby",
+  "slug": "paradigm",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "People.ai",
+  "ats": "lever",
+  "slug": "people-ai",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "pinecone",
+  "ats": "ashby",
+  "slug": "pinecone",
+  "industry": "Tech",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Popl",
+  "ats": "ashby",
+  "slug": "popl",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reach",
+  "ats": "ashby",
+  "slug": "reach",
+  "industry": "Industrials",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Shadeform",
+  "ats": "ashby",
+  "slug": "shadeform",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sim",
+  "ats": "ashby",
+  "slug": "sim",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Spruce",
+  "ats": "ashby",
+  "slug": "spruce",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Squire Technologies",
+  "ats": "ashby",
+  "slug": "getsquire",
+  "industry": "Consumer",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Stream",
+  "ats": "ashby",
+  "slug": "stream",
+  "industry": "Fintech",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Submittable",
+  "ats": "greenhouse",
+  "slug": "submittable",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Terminal",
+  "ats": "ashby",
+  "slug": "terminal",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Thera",
+  "ats": "ashby",
+  "slug": "thera",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Upwork Pro",
+  "ats": "greenhouse",
+  "slug": "upwork",
+  "industry": "",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Usul",
+  "ats": "ashby",
+  "slug": "usul",
+  "industry": "Government",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Zeit AI",
+  "ats": "ashby",
+  "slug": "zeit-ai",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Zensors",
+  "ats": "ashby",
+  "slug": "zensors",
+  "industry": "B2B",
+  "open_jobs": 6,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Acquia",
+  "ats": "greenhouse",
+  "slug": "acquia",
+  "industry": "",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "authzed",
+  "ats": "ashby",
+  "slug": "authzed",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Benepass",
+  "ats": "ashby",
+  "slug": "benepass",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Bild AI",
+  "ats": "ashby",
+  "slug": "bild-ai",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Blee",
+  "ats": "ashby",
+  "slug": "blee",
+  "industry": "Fintech",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CareMessage",
+  "ats": "ashby",
+  "slug": "caremessage",
+  "industry": "Healthcare",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "charity: water",
+  "ats": "lever",
+  "slug": "charitywater",
+  "industry": "",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Complif",
+  "ats": "ashby",
+  "slug": "complif",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Electric Air",
+  "ats": "ashby",
+  "slug": "electricair",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ello",
+  "ats": "ashby",
+  "slug": "ello",
+  "industry": "Education",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Extend",
+  "ats": "ashby",
+  "slug": "extend",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Formance",
+  "ats": "ashby",
+  "slug": "formance",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ghost",
+  "ats": "greenhouse",
+  "slug": "ghost",
+  "industry": "",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GovEagle",
+  "ats": "ashby",
+  "slug": "goveagle",
+  "industry": "Government",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hyperbound",
+  "ats": "ashby",
+  "slug": "hyperbound",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kestra",
+  "ats": "ashby",
+  "slug": "kestra",
+  "industry": "",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kingdom",
+  "ats": "ashby",
+  "slug": "kingdom",
+  "industry": "Healthcare",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lob",
+  "ats": "greenhouse",
+  "slug": "lob",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Luminal",
+  "ats": "ashby",
+  "slug": "luminal",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Momentic",
+  "ats": "ashby",
+  "slug": "momentic",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mosaic",
+  "ats": "ashby",
+  "slug": "mosaic",
+  "industry": "Consumer",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Newton",
+  "ats": "lever",
+  "slug": "newton",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nuna Inc",
+  "ats": "ashby",
+  "slug": "nuna",
+  "industry": "",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "OffDeal",
+  "ats": "ashby",
+  "slug": "offdeal",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Opencall",
+  "ats": "ashby",
+  "slug": "opencall",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Orbital Operations",
+  "ats": "greenhouse",
+  "slug": "orbitaloperations",
+  "industry": "Industrials",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pivot Robotics",
+  "ats": "ashby",
+  "slug": "pivotrobotics",
+  "industry": "Industrials",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Porter",
+  "ats": "greenhouse",
+  "slug": "porter",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Preload",
+  "ats": "greenhouse",
+  "slug": "preload",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Probably Genetic",
+  "ats": "ashby",
+  "slug": "probablygenetic",
+  "industry": "Healthcare",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pure",
+  "ats": "ashby",
+  "slug": "pure",
+  "industry": "Consumer",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reality Defender",
+  "ats": "ashby",
+  "slug": "realitydefender",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Recall.ai",
+  "ats": "ashby",
+  "slug": "recall",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vapi",
+  "ats": "ashby",
+  "slug": "vapi",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Veritus",
+  "ats": "ashby",
+  "slug": "veritus",
+  "industry": "Fintech",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Warp",
+  "ats": "greenhouse",
+  "slug": "warp",
+  "industry": "B2B",
+  "open_jobs": 5,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "15Five",
+  "ats": "lever",
+  "slug": "15five",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Accord",
+  "ats": "ashby",
+  "slug": "accord",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Artisan",
+  "ats": "ashby",
+  "slug": "artisan",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Artos",
+  "ats": "ashby",
+  "slug": "artosai",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Assembly",
+  "ats": "ashby",
+  "slug": "assembly",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Avallon AI",
+  "ats": "ashby",
+  "slug": "avallon",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Brumby",
+  "ats": "ashby",
+  "slug": "brumby",
+  "industry": "Industrials",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cambly",
+  "ats": "ashby",
+  "slug": "cambly",
+  "industry": "Education",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Chestnut",
+  "ats": "ashby",
+  "slug": "chestnut",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Copia",
+  "ats": "lever",
+  "slug": "copia",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Decoda Health",
+  "ats": "ashby",
+  "slug": "decodahealth",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Dedalus Labs",
+  "ats": "ashby",
+  "slug": "dedalus-labs",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Enveritas",
+  "ats": "greenhouse",
+  "slug": "enveritas",
+  "industry": "Industrials",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Epsilon3",
+  "ats": "lever",
+  "slug": "epsilon3",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Eventual",
+  "ats": "ashby",
+  "slug": "eventual",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fernstone",
+  "ats": "ashby",
+  "slug": "fernstone",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fintual",
+  "ats": "lever",
+  "slug": "fintual",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fortuna Health",
+  "ats": "ashby",
+  "slug": "fortuna-health",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ghost",
+  "ats": "ashby",
+  "slug": "ghost",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GoHiring",
+  "ats": "greenhouse",
+  "slug": "gohiring",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GUILD",
+  "ats": "greenhouse",
+  "slug": "guild",
+  "industry": "Industrials",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Happl",
+  "ats": "ashby",
+  "slug": "happl",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hotplate",
+  "ats": "ashby",
+  "slug": "hotplate",
+  "industry": "Consumer",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kernal Biologics",
+  "ats": "greenhouse",
+  "slug": "kernalbio",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kivo Health",
+  "ats": "ashby",
+  "slug": "kivo-health",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Knowtex",
+  "ats": "ashby",
+  "slug": "knowtex",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lattice",
+  "ats": "greenhouse",
+  "slug": "lattice",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Limrun",
+  "ats": "greenhouse",
+  "slug": "limrun",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Luxor Technology",
+  "ats": "ashby",
+  "slug": "luxor",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MetaLab",
+  "ats": "greenhouse",
+  "slug": "metalab",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Morph",
+  "ats": "greenhouse",
+  "slug": "morph",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Netlify",
+  "ats": "greenhouse",
+  "slug": "netlify",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Newton",
+  "ats": "greenhouse",
+  "slug": "newton",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nira Energy",
+  "ats": "greenhouse",
+  "slug": "niraenergy",
+  "industry": "Industrials",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nowadays",
+  "ats": "ashby",
+  "slug": "nowadays",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Outschool",
+  "ats": "ashby",
+  "slug": "outschool",
+  "industry": "Education",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pirros",
+  "ats": "ashby",
+  "slug": "pirros",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Polymath",
+  "ats": "ashby",
+  "slug": "polymath",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Provision",
+  "ats": "ashby",
+  "slug": "provision",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Redox",
+  "ats": "lever",
+  "slug": "redoxengine",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sendbird",
+  "ats": "greenhouse",
+  "slug": "sendbird",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Snapdocs",
+  "ats": "ashby",
+  "slug": "snapdocs",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "STARK BANK",
+  "ats": "lever",
+  "slug": "starkbank",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Synapticure",
+  "ats": "lever",
+  "slug": "synapticure",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tempo",
+  "ats": "greenhouse",
+  "slug": "tempo",
+  "industry": "Healthcare",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Thorn",
+  "ats": "greenhouse",
+  "slug": "thorn",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "True Link",
+  "ats": "ashby",
+  "slug": "truelinkfinancial",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Two Dots",
+  "ats": "lever",
+  "slug": "twodots",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "UserGems",
+  "ats": "greenhouse",
+  "slug": "usergems",
+  "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Verto",
+  "ats": "ashby",
+  "slug": "verto",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "YAZIO",
+  "ats": "ashby",
+  "slug": "yazio",
+  "industry": "",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Zippi",
+  "ats": "lever",
+  "slug": "zippi",
+  "industry": "Fintech",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Aerostrat",
+  "ats": "lever",
+  "slug": "aerostrat",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Airgoods",
+  "ats": "ashby",
+  "slug": "airgoods",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ambition",
+  "ats": "ashby",
+  "slug": "ambition",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ambral",
+  "ats": "ashby",
+  "slug": "ambral",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Belvo",
+  "ats": "ashby",
+  "slug": "belvo",
+  "industry": "Fintech",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CarbonChain",
+  "ats": "greenhouse",
+  "slug": "carbonchain",
+  "industry": "Industrials",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Caribou",
+  "ats": "ashby",
+  "slug": "caribou",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Close",
+  "ats": "ashby",
+  "slug": "close",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Clueso",
+  "ats": "ashby",
+  "slug": "clueso",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CoinTracker",
+  "ats": "ashby",
+  "slug": "cointracker",
+  "industry": "Fintech",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CommodityAI",
+  "ats": "ashby",
+  "slug": "commodityai",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cortex",
+  "ats": "greenhouse",
+  "slug": "cortex",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CTGT",
+  "ats": "ashby",
+  "slug": "ctgt",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Culture Biosciences",
+  "ats": "greenhouse",
+  "slug": "culturebiosciences",
+  "industry": "Healthcare",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Deepnote",
+  "ats": "ashby",
+  "slug": "deepnote",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Finch",
+  "ats": "ashby",
+  "slug": "finch",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "FlutterFlow",
+  "ats": "ashby",
+  "slug": "flutterflow",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gitbook",
+  "ats": "ashby",
+  "slug": "gitbook",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GoLinks",
+  "ats": "ashby",
+  "slug": "golinks",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gremlin",
+  "ats": "greenhouse",
+  "slug": "gremlin",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "H3X Technologies",
+  "ats": "ashby",
+  "slug": "h3x-technologies",
+  "industry": "Industrials",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Haven",
+  "ats": "greenhouse",
+  "slug": "haven",
+  "industry": "Fintech",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Heart Aerospace",
+  "ats": "greenhouse",
+  "slug": "heartaerospace",
+  "industry": "Industrials",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "HockeyStack",
+  "ats": "ashby",
+  "slug": "hockeystack",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hudu",
+  "ats": "ashby",
+  "slug": "hudu",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "idler",
+  "ats": "ashby",
+  "slug": "idler",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Infinite",
+  "ats": "ashby",
+  "slug": "infinite",
+  "industry": "Fintech",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Inkeep",
+  "ats": "ashby",
+  "slug": "inkeep",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Innate",
+  "ats": "ashby",
+  "slug": "innate",
+  "industry": "Consumer",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Jeevy Fabrication",
+  "ats": "ashby",
+  "slug": "jeevyfabrication",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "JOOR",
+  "ats": "ashby",
+  "slug": "joor",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Khan Academy",
+  "ats": "greenhouse",
+  "slug": "khanacademy",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kinsta",
+  "ats": "lever",
+  "slug": "kinsta",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lightdash",
+  "ats": "ashby",
+  "slug": "lightdash",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mundo AI",
+  "ats": "ashby",
+  "slug": "mundo-ai",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "One Robot",
+  "ats": "ashby",
+  "slug": "onerobot",
+  "industry": "Industrials",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pharos",
+  "ats": "ashby",
+  "slug": "pharos",
+  "industry": "Healthcare",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Postscript",
+  "ats": "greenhouse",
+  "slug": "postscript",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Proof of Human",
+  "ats": "ashby",
+  "slug": "proofofhuman",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rally",
+  "ats": "ashby",
+  "slug": "rallyuxr",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ready",
+  "ats": "ashby",
+  "slug": "ready",
+  "industry": "Government",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reflex",
+  "ats": "greenhouse",
+  "slug": "reflex",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "RenoFi",
+  "ats": "lever",
+  "slug": "renofi",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Runway",
+  "ats": "ashby",
+  "slug": "runway",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Serif Health",
+  "ats": "ashby",
+  "slug": "serifhealth",
+  "industry": "Healthcare",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sixfold Bioscience",
+  "ats": "greenhouse",
+  "slug": "sixfold",
+  "industry": "Healthcare",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "SmartAsset",
+  "ats": "greenhouse",
+  "slug": "smartasset",
+  "industry": "Fintech",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Spur",
+  "ats": "ashby",
+  "slug": "spur",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sticker Mule",
+  "ats": "ashby",
+  "slug": "stickermule",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Stilta",
+  "ats": "ashby",
+  "slug": "stilta",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "StreamNative",
+  "ats": "greenhouse",
+  "slug": "streamnative",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Svix",
+  "ats": "ashby",
+  "slug": "svix",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tajir",
+  "ats": "ashby",
+  "slug": "tajir",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Treasury Prime",
+  "ats": "greenhouse",
+  "slug": "treasuryprime",
+  "industry": "Fintech",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ultra",
+  "ats": "ashby",
+  "slug": "ultra",
+  "industry": "Industrials",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Uncapped",
+  "ats": "workable",
+  "slug": "uncapped",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "UpCodes",
+  "ats": "ashby",
+  "slug": "upcodes",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Valimail",
+  "ats": "greenhouse",
+  "slug": "valimail",
+  "industry": "",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vector",
+  "ats": "ashby",
+  "slug": "vector",
+  "industry": "B2B",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Volta Labs, Inc.",
+  "ats": "lever",
+  "slug": "voltalabs",
+  "industry": "Healthcare",
+  "open_jobs": 3,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AnswerThis",
+  "ats": "ashby",
+  "slug": "answerthis",
+  "industry": "Consumer",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "AON3D",
+  "ats": "greenhouse",
+  "slug": "aon3d",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Apolink",
+  "ats": "ashby",
+  "slug": "apolink",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Arini",
+  "ats": "ashby",
+  "slug": "arini",
+  "industry": "Healthcare",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Atlas",
+  "ats": "ashby",
+  "slug": "atlas",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Baubap",
+  "ats": "greenhouse",
+  "slug": "baubap",
+  "industry": "Fintech",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Buffer",
+  "ats": "ashby",
+  "slug": "buffer",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Calibre",
+  "ats": "ashby",
+  "slug": "calibre",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Capy",
+  "ats": "ashby",
+  "slug": "capy",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Caribou",
+  "ats": "greenhouse",
+  "slug": "caribou",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Castle",
+  "ats": "ashby",
+  "slug": "castle",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Checkly",
+  "ats": "ashby",
+  "slug": "checkly",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Collabora",
+  "ats": "lever",
+  "slug": "collabora",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Datafold",
+  "ats": "ashby",
+  "slug": "datafold",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Domu Technology Inc.",
+  "ats": "ashby",
+  "slug": "domu",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "FINNY AI",
+  "ats": "ashby",
+  "slug": "finny",
+  "industry": "Fintech",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fleetzero",
+  "ats": "lever",
+  "slug": "fleetzero",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Fly.io",
+  "ats": "lever",
+  "slug": "fly",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Focal Systems",
+  "ats": "ashby",
+  "slug": "focal",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GUILD",
+  "ats": "ashby",
+  "slug": "guild",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Heron",
+  "ats": "ashby",
+  "slug": "herondata",
+  "industry": "Fintech",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Humanly",
+  "ats": "ashby",
+  "slug": "humanly",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hypercubic",
+  "ats": "ashby",
+  "slug": "hypercubic",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "IMT Care",
+  "ats": "greenhouse",
+  "slug": "imt",
+  "industry": "Healthcare",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Invopop",
+  "ats": "ashby",
+  "slug": "invopop",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Legalist",
+  "ats": "greenhouse",
+  "slug": "legalist",
+  "industry": "Fintech",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Long Term Stock Exchange",
+  "ats": "greenhouse",
+  "slug": "ltse",
+  "industry": "Fintech",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MangoDesk",
+  "ats": "ashby",
+  "slug": "mangodesk",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mastra",
+  "ats": "ashby",
+  "slug": "mastra",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Medium",
+  "ats": "greenhouse",
+  "slug": "medium",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mixmax",
+  "ats": "greenhouse",
+  "slug": "mixmax",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Modern Health",
+  "ats": "greenhouse",
+  "slug": "modernhealth",
+  "industry": "Healthcare",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mux",
+  "ats": "ashby",
+  "slug": "mux",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Nuharbor Security",
+  "ats": "greenhouse",
+  "slug": "nuharborsecurity",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ollie",
+  "ats": "lever",
+  "slug": "myollie",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "OneSchema",
+  "ats": "ashby",
+  "slug": "oneschema",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Papa",
+  "ats": "greenhouse",
+  "slug": "papa",
+  "industry": "Healthcare",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pax Historia",
+  "ats": "ashby",
+  "slug": "pax-historia",
+  "industry": "Consumer",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Permutive",
+  "ats": "ashby",
+  "slug": "permutive",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PickTrace",
+  "ats": "lever",
+  "slug": "picktrace",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PostEra",
+  "ats": "lever",
+  "slug": "postera",
+  "industry": "Healthcare",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prominent Edge",
+  "ats": "lever",
+  "slug": "prominentedge",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Quicknode",
+  "ats": "ashby",
+  "slug": "quicknode",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reach",
+  "ats": "lever",
+  "slug": "reachpower",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Recall.ai",
+  "ats": "greenhouse",
+  "slug": "recall",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Reform",
+  "ats": "ashby",
+  "slug": "reform",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Relace",
+  "ats": "ashby",
+  "slug": "relace",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Replo",
+  "ats": "ashby",
+  "slug": "replo",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Revise Robotics",
+  "ats": "ashby",
+  "slug": "reviserobotics",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "REZI",
+  "ats": "ashby",
+  "slug": "rezi",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rollstack",
+  "ats": "ashby",
+  "slug": "rollstack",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Smartcuts",
+  "ats": "lever",
+  "slug": "smartcuts",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Super",
+  "ats": "lever",
+  "slug": "super",
+  "industry": "Consumer",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tekton Dynamics",
+  "ats": "ashby",
+  "slug": "tekton-dynamics",
+  "industry": "Industrials",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "TestGorilla",
+  "ats": "ashby",
+  "slug": "testgorilla",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Thunkable",
+  "ats": "lever",
+  "slug": "thunkable",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Toku",
+  "ats": "lever",
+  "slug": "toku",
+  "industry": "B2B",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "weaviate",
+  "ats": "ashby",
+  "slug": "weaviate",
+  "industry": "Tech",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ZenRows",
+  "ats": "greenhouse",
+  "slug": "zenrows",
+  "industry": "",
+  "open_jobs": 2,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "1Password",
+  "ats": "workable",
+  "slug": "1password",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ad Hoc",
+  "ats": "ashby",
+  "slug": "ad-hoc",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Appcues",
+  "ats": "ashby",
+  "slug": "appcues",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Aragorn AI",
+  "ats": "ashby",
+  "slug": "aragorn",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Articulate",
+  "ats": "lever",
+  "slug": "articulate",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Atrato",
+  "ats": "ashby",
+  "slug": "atrato",
+  "industry": "Fintech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Autumn",
+  "ats": "ashby",
+  "slug": "autumn",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "BackerKit",
+  "ats": "lever",
+  "slug": "backerkit",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Betable",
+  "ats": "greenhouse",
+  "slug": "corp",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Boostly",
+  "ats": "ashby",
+  "slug": "boostly",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "BootLoop",
+  "ats": "ashby",
+  "slug": "bootloop",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Casco",
+  "ats": "ashby",
+  "slug": "casco",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "CivicActions",
+  "ats": "greenhouse",
+  "slug": "civicactions",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Comet",
+  "ats": "greenhouse",
+  "slug": "comet",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Complir",
+  "ats": "ashby",
+  "slug": "complir",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Conduit",
+  "ats": "ashby",
+  "slug": "conduit",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Cosine",
+  "ats": "ashby",
+  "slug": "cosine",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "d_model",
+  "ats": "ashby",
+  "slug": "dmodel",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Depot",
+  "ats": "ashby",
+  "slug": "depot",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Event Horizon Labs",
+  "ats": "ashby",
+  "slug": "event-horizon-labs",
+  "industry": "Fintech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Flowtel",
+  "ats": "ashby",
+  "slug": "flowtel",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "General Legal",
+  "ats": "greenhouse",
+  "slug": "general",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Glide",
+  "ats": "greenhouse",
+  "slug": "glide",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "GovDash",
+  "ats": "ashby",
+  "slug": "govdash",
+  "industry": "Government",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "HealthSherpa",
+  "ats": "ashby",
+  "slug": "healthsherpa",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hightouch",
+  "ats": "ashby",
+  "slug": "hightouch",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hotjar",
+  "ats": "workable",
+  "slug": "careers",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Hubstaff",
+  "ats": "ashby",
+  "slug": "hubstaff",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Infera",
+  "ats": "ashby",
+  "slug": "infera",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Keen IO",
+  "ats": "greenhouse",
+  "slug": "keen",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Kinter",
+  "ats": "lever",
+  "slug": "kinter",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Knack",
+  "ats": "greenhouse",
+  "slug": "knack",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Malga",
+  "ats": "ashby",
+  "slug": "malga",
+  "industry": "Fintech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MarqVision",
+  "ats": "lever",
+  "slug": "marqvision",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "MBX",
+  "ats": "greenhouse",
+  "slug": "us",
+  "industry": "Consumer",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mednet",
+  "ats": "ashby",
+  "slug": "mednet",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Mem0",
+  "ats": "ashby",
+  "slug": "mem0",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Meru Health",
+  "ats": "greenhouse",
+  "slug": "meruhealth",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Metal",
+  "ats": "ashby",
+  "slug": "metal",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Miso Labs",
+  "ats": "ashby",
+  "slug": "misolabs",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "neon",
+  "ats": "ashby",
+  "slug": "neon",
+  "industry": "Tech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "OneChronos",
+  "ats": "ashby",
+  "slug": "onechronos",
+  "industry": "Fintech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Pair Team",
+  "ats": "greenhouse",
+  "slug": "pairteam",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "PicnicAI",
+  "ats": "greenhouse",
+  "slug": "picnicai",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Prometheus",
+  "ats": "ashby",
+  "slug": "prometheus",
+  "industry": "Industrials",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Quartzy",
+  "ats": "lever",
+  "slug": "quartzy",
+  "industry": "Healthcare",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ramp",
+  "ats": "greenhouse",
+  "slug": "ramp",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "ReCharge Payments",
+  "ats": "ashby",
+  "slug": "recharge",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Rocket.Chat",
+  "ats": "greenhouse",
+  "slug": "rocketchat",
+  "industry": "",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Runa",
+  "ats": "ashby",
+  "slug": "runa",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ryvn",
+  "ats": "ashby",
+  "slug": "ryvn",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sapling.ai",
+  "ats": "lever",
+  "slug": "sapling",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Slope",
+  "ats": "ashby",
+  "slug": "slope",
+  "industry": "Fintech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Snackpass",
+  "ats": "ashby",
+  "slug": "snackpass",
+  "industry": "Consumer",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Sweetspot",
+  "ats": "ashby",
+  "slug": "sweetspot",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tenor",
+  "ats": "ashby",
+  "slug": "tenor",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Thunder Compute",
+  "ats": "ashby",
+  "slug": "thundercompute",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tsenta",
+  "ats": "ashby",
+  "slug": "tsenta",
+  "industry": "Consumer",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Tuesday Labs",
+  "ats": "ashby",
+  "slug": "tuesday-labs",
+  "industry": "Consumer",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Upflow",
+  "ats": "ashby",
+  "slug": "upflow",
+  "industry": "Fintech",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "VergeSense",
+  "ats": "lever",
+  "slug": "vergesense",
+  "industry": "Real Estate and Construction",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Vorticity",
+  "ats": "ashby",
+  "slug": "vorticity",
+  "industry": "Industrials",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Yuma AI",
+  "ats": "greenhouse",
+  "slug": "yuma",
+  "industry": "B2B",
+  "open_jobs": 1,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "BioRender",
+  "ats": "lever",
+  "slug": "biorender",
+  "industry": "B2B",
+  "open_jobs": 0,
+  "board_ok": false,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Clearly AI",
+  "ats": "ashby",
+  "slug": "clearly-ai",
+  "industry": "B2B",
+  "open_jobs": 0,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ekho",
+  "ats": "ashby",
+  "slug": "ekho",
+  "industry": "B2B",
+  "open_jobs": 0,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Klarify",
+  "ats": "ashby",
+  "slug": "klarify",
+  "industry": "Healthcare",
+  "open_jobs": 0,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "LAIKA",
+  "ats": "greenhouse",
+  "slug": "laika",
+  "industry": "Consumer",
+  "open_jobs": 0,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Lucid Bots",
+  "ats": "ashby",
+  "slug": "lucid-bots",
+  "industry": "Industrials",
+  "open_jobs": 0,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Offstream",
+  "ats": "ashby",
+  "slug": "offstream",
+  "industry": "B2B",
+  "open_jobs": 0,
+  "board_ok": false,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Riot",
+  "ats": "lever",
+  "slug": "tryriot",
+  "industry": "B2B",
+  "open_jobs": 0,
+  "board_ok": false,
+  "checked": "2026-11-13"
+ }
+]

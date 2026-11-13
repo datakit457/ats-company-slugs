@@ -27,19 +27,19 @@
   "checked": "2026-11-13"
  },
  {
-  "company": "Agency",
-  "ats": "greenhouse",
-  "slug": "agency",
-  "industry": "B2B",
-  "open_jobs": 827,
-  "board_ok": true,
-  "checked": "2026-11-13"
- },
- {
   "company": "openai",
   "ats": "ashby",
   "slug": "openai",
   "industry": "Tech",
+  "open_jobs": 828,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Agency",
+  "ats": "greenhouse",
+  "slug": "agency",
+  "industry": "B2B",
   "open_jobs": 827,
   "board_ok": true,
   "checked": "2026-11-13"
@@ -112,7 +112,7 @@
   "ats": "ashby",
   "slug": "snowflake",
   "industry": "Tech",
-  "open_jobs": 378,
+  "open_jobs": 377,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -148,7 +148,7 @@
   "ats": "ashby",
   "slug": "legora",
   "industry": "B2B",
-  "open_jobs": 333,
+  "open_jobs": 336,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -166,7 +166,7 @@
   "ats": "greenhouse",
   "slug": "samsara",
   "industry": "Tech",
-  "open_jobs": 309,
+  "open_jobs": 313,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -184,7 +184,7 @@
   "ats": "lever",
   "slug": "palantir",
   "industry": "",
-  "open_jobs": 302,
+  "open_jobs": 301,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -346,7 +346,7 @@
   "ats": "ashby",
   "slug": "klaviyo",
   "industry": "",
-  "open_jobs": 147,
+  "open_jobs": 148,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -364,7 +364,7 @@
   "ats": "greenhouse",
   "slug": "klaviyo",
   "industry": "",
-  "open_jobs": 145,
+  "open_jobs": 146,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -400,7 +400,7 @@
   "ats": "ashby",
   "slug": "alan",
   "industry": "",
-  "open_jobs": 137,
+  "open_jobs": 136,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -409,7 +409,7 @@
   "ats": "ashby",
   "slug": "lightspeedhq",
   "industry": "",
-  "open_jobs": 134,
+  "open_jobs": 135,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -427,7 +427,7 @@
   "ats": "ashby",
   "slug": "elevenlabs",
   "industry": "Tech",
-  "open_jobs": 129,
+  "open_jobs": 128,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -558,18 +558,18 @@
   "checked": "2026-11-13"
  },
  {
-  "company": "lambda",
-  "ats": "ashby",
-  "slug": "lambda",
+  "company": "instacart",
+  "ats": "greenhouse",
+  "slug": "instacart",
   "industry": "Tech",
-  "open_jobs": 91,
+  "open_jobs": 90,
   "board_ok": true,
   "checked": "2026-11-13"
  },
  {
-  "company": "instacart",
-  "ats": "greenhouse",
-  "slug": "instacart",
+  "company": "lambda",
+  "ats": "ashby",
+  "slug": "lambda",
   "industry": "Tech",
   "open_jobs": 90,
   "board_ok": true,
@@ -630,20 +630,20 @@
   "checked": "2026-11-13"
  },
  {
-  "company": "Gusto",
-  "ats": "greenhouse",
-  "slug": "gusto",
-  "industry": "B2B",
-  "open_jobs": 78,
-  "board_ok": true,
-  "checked": "2026-11-13"
- },
- {
   "company": "togetherai",
   "ats": "greenhouse",
   "slug": "togetherai",
   "industry": "Tech",
   "open_jobs": 78,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Gusto",
+  "ats": "greenhouse",
+  "slug": "gusto",
+  "industry": "B2B",
+  "open_jobs": 77,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -720,20 +720,20 @@
   "checked": "2026-11-13"
  },
  {
-  "company": "Ashby",
-  "ats": "ashby",
-  "slug": "ashby",
-  "industry": "B2B",
-  "open_jobs": 71,
-  "board_ok": true,
-  "checked": "2026-11-13"
- },
- {
   "company": "Tide",
   "ats": "greenhouse",
   "slug": "tide",
   "industry": "",
   "open_jobs": 71,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Ashby",
+  "ats": "ashby",
+  "slug": "ashby",
+  "industry": "B2B",
+  "open_jobs": 70,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -778,7 +778,7 @@
   "ats": "greenhouse",
   "slug": "alphasights",
   "industry": "",
-  "open_jobs": 64,
+  "open_jobs": 65,
   "board_ok": true,
   "checked": "2026-11-13"
  },
@@ -3195,6 +3195,15 @@
   "checked": "2026-11-13"
  },
  {
+  "company": "Launch Potato",
+  "ats": "greenhouse",
+  "slug": "launchpotato",
+  "industry": "",
+  "open_jobs": 12,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
   "company": "Lucis",
   "ats": "ashby",
   "slug": "lucis",
@@ -3630,15 +3639,6 @@
   "company": "Labelbox",
   "ats": "greenhouse",
   "slug": "labelbox",
-  "industry": "",
-  "open_jobs": 10,
-  "board_ok": true,
-  "checked": "2026-11-13"
- },
- {
-  "company": "Launch Potato",
-  "ats": "greenhouse",
-  "slug": "launchpotato",
   "industry": "",
   "open_jobs": 10,
   "board_ok": true,
@@ -5085,15 +5085,6 @@
   "checked": "2026-11-13"
  },
  {
-  "company": "Acquia",
-  "ats": "greenhouse",
-  "slug": "acquia",
-  "industry": "",
-  "open_jobs": 5,
-  "board_ok": true,
-  "checked": "2026-11-13"
- },
- {
   "company": "authzed",
   "ats": "ashby",
   "slug": "authzed",
@@ -5422,6 +5413,15 @@
   "ats": "ashby",
   "slug": "accord",
   "industry": "B2B",
+  "open_jobs": 4,
+  "board_ok": true,
+  "checked": "2026-11-13"
+ },
+ {
+  "company": "Acquia",
+  "ats": "greenhouse",
+  "slug": "acquia",
+  "industry": "",
   "open_jobs": 4,
   "board_ok": true,
   "checked": "2026-11-13"

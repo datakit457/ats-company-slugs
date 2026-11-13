@@ -2,8 +2,8 @@ company,ats,slug,industry,open_jobs,board_ok,checked
 spacex,greenhouse,spacex,Tech,2849,True,2026-11-13
 databricks,greenhouse,databricks,Tech,906,True,2026-11-13
 Veeva Systems,lever,veeva,,861,True,2026-11-13
+openai,ashby,openai,Tech,828,True,2026-11-13
 Agency,greenhouse,agency,B2B,827,True,2026-11-13
-openai,ashby,openai,Tech,827,True,2026-11-13
 Stripe,greenhouse,stripe,,787,True,2026-11-13
 anthropic,greenhouse,anthropic,Tech,673,True,2026-11-13
 cloudflare,greenhouse,cloudflare,Tech,481,True,2026-11-13
@@ -11,15 +11,15 @@ Elastic,greenhouse,elastic,,398,True,2026-11-13
 MongoDB,greenhouse,mongodb,,386,True,2026-11-13
 Datadog,greenhouse,datadog,,383,True,2026-11-13
 waymo,greenhouse,waymo,Tech,379,True,2026-11-13
-snowflake,ashby,snowflake,Tech,378,True,2026-11-13
+snowflake,ashby,snowflake,Tech,377,True,2026-11-13
 Okta,greenhouse,okta,,368,True,2026-11-13
 Toast,greenhouse,toast,,357,True,2026-11-13
 StoneCo,greenhouse,stone,,348,True,2026-11-13
-Legora,ashby,legora,B2B,333,True,2026-11-13
+Legora,ashby,legora,B2B,336,True,2026-11-13
 Canonical,greenhouse,canonical,,316,True,2026-11-13
-samsara,greenhouse,samsara,Tech,309,True,2026-11-13
+samsara,greenhouse,samsara,Tech,313,True,2026-11-13
 coreweave,greenhouse,coreweave,Tech,303,True,2026-11-13
-Palantir.net,lever,palantir,,302,True,2026-11-13
+Palantir.net,lever,palantir,,301,True,2026-11-13
 brex,greenhouse,brex,Tech,283,True,2026-11-13
 Coinbase,greenhouse,coinbase,,271,True,2026-11-13
 GitLab,greenhouse,gitlab,,254,True,2026-11-13
@@ -37,16 +37,16 @@ Grafana Labs,greenhouse,grafanalabs,,158,True,2026-11-13
 Legion Health,ashby,legionhealth,Healthcare,157,True,2026-11-13
 Ebury,greenhouse,ebury,,155,True,2026-11-13
 lyft,greenhouse,lyft,Tech,151,True,2026-11-13
-Klaviyo,ashby,klaviyo,,147,True,2026-11-13
+Klaviyo,ashby,klaviyo,,148,True,2026-11-13
 Reddit,greenhouse,reddit,,147,True,2026-11-13
-Klaviyo,greenhouse,klaviyo,,145,True,2026-11-13
+Klaviyo,greenhouse,klaviyo,,146,True,2026-11-13
 Epic Games,greenhouse,epicgames,,143,True,2026-11-13
 Figma,greenhouse,figma,,143,True,2026-11-13
 Plaid,ashby,plaid,,142,True,2026-11-13
-Alan,ashby,alan,,137,True,2026-11-13
-Lightspeed,ashby,lightspeedhq,,134,True,2026-11-13
+Alan,ashby,alan,,136,True,2026-11-13
+Lightspeed,ashby,lightspeedhq,,135,True,2026-11-13
 Finni Health,ashby,finni-health,Healthcare,132,True,2026-11-13
-elevenlabs,ashby,elevenlabs,Tech,129,True,2026-11-13
+elevenlabs,ashby,elevenlabs,Tech,128,True,2026-11-13
 Aleph,lever,aleph,B2B,127,True,2026-11-13
 cerebras,ashby,cerebras,Tech,124,True,2026-11-13
 cohere,ashby,cohere,Tech,121,True,2026-11-13
@@ -61,16 +61,16 @@ Asana,greenhouse,asana,,108,True,2026-11-13
 langchain,ashby,langchain,Tech,100,True,2026-11-13
 Zip,ashby,zip,B2B,99,True,2026-11-13
 Headway,ashby,headway,,91,True,2026-11-13
-lambda,ashby,lambda,Tech,91,True,2026-11-13
 instacart,greenhouse,instacart,Tech,90,True,2026-11-13
+lambda,ashby,lambda,Tech,90,True,2026-11-13
 Vercel,greenhouse,vercel,,87,True,2026-11-13
 Inversion Space,greenhouse,inversionspace,Industrials,86,True,2026-11-13
 Temporal,ashby,temporal,,86,True,2026-11-13
 Spotify,lever,spotify,,85,True,2026-11-13
 1Password,ashby,1password,,80,True,2026-11-13
 Vanta,ashby,vanta,B2B,79,True,2026-11-13
-Gusto,greenhouse,gusto,B2B,78,True,2026-11-13
 togetherai,greenhouse,togetherai,Tech,78,True,2026-11-13
+Gusto,greenhouse,gusto,B2B,77,True,2026-11-13
 Supabase,ashby,supabase,B2B,77,True,2026-11-13
 Extreme Networks,lever,extremenetworks,,76,True,2026-11-13
 Gojob,lever,gojob,,76,True,2026-11-13
@@ -79,13 +79,13 @@ mercury,greenhouse,mercury,Tech,76,True,2026-11-13
 Tailscale,greenhouse,tailscale,,74,True,2026-11-13
 Hive,lever,hive,B2B,72,True,2026-11-13
 Alpaca,greenhouse,alpaca,Fintech,71,True,2026-11-13
-Ashby,ashby,ashby,B2B,71,True,2026-11-13
 Tide,greenhouse,tide,,71,True,2026-11-13
+Ashby,ashby,ashby,B2B,70,True,2026-11-13
 Faire,greenhouse,faire,B2B,69,True,2026-11-13
 Truelogic,ashby,truelogic,,69,True,2026-11-13
 Exa,ashby,exa,B2B,67,True,2026-11-13
 Overview,ashby,overview,Industrials,67,True,2026-11-13
-AlphaSights>,greenhouse,alphasights,,64,True,2026-11-13
+AlphaSights>,greenhouse,alphasights,,65,True,2026-11-13
 Deepgram,ashby,deepgram,B2B,63,True,2026-11-13
 Human Interest,greenhouse,humaninterest,B2B,62,True,2026-11-13
 REGENT,ashby,regent,Industrials,62,True,2026-11-13
@@ -354,6 +354,7 @@ ConsenSys Inc,greenhouse,consensys,,12,True,2026-11-13
 Fours,ashby,fours,B2B,12,True,2026-11-13
 Gumloop,ashby,gumloop,B2B,12,True,2026-11-13
 Infisical,ashby,infisical,B2B,12,True,2026-11-13
+Launch Potato,greenhouse,launchpotato,,12,True,2026-11-13
 Lucis,ashby,lucis,Healthcare,12,True,2026-11-13
 Novig,ashby,novig,Consumer,12,True,2026-11-13
 Phoenix,ashby,phoenix,Healthcare,12,True,2026-11-13
@@ -403,7 +404,6 @@ Halluminate,ashby,halluminate,B2B,10,True,2026-11-13
 Hive,greenhouse,hive,B2B,10,True,2026-11-13
 Karat,greenhouse,karat,,10,True,2026-11-13
 Labelbox,greenhouse,labelbox,,10,True,2026-11-13
-Launch Potato,greenhouse,launchpotato,,10,True,2026-11-13
 Muck Rack,greenhouse,muckrack,,10,True,2026-11-13
 Posh,ashby,posh,Industrials,10,True,2026-11-13
 PostHog,ashby,posthog,B2B,10,True,2026-11-13
@@ -564,7 +564,6 @@ Upwork Pro,greenhouse,upwork,,6,True,2026-11-13
 Usul,ashby,usul,Government,6,True,2026-11-13
 Zeit AI,ashby,zeit-ai,B2B,6,True,2026-11-13
 Zensors,ashby,zensors,B2B,6,True,2026-11-13
-Acquia,greenhouse,acquia,,5,True,2026-11-13
 authzed,ashby,authzed,B2B,5,True,2026-11-13
 Benepass,ashby,benepass,B2B,5,True,2026-11-13
 Bild AI,ashby,bild-ai,Real Estate and Construction,5,True,2026-11-13
@@ -602,6 +601,7 @@ Veritus,ashby,veritus,Fintech,5,True,2026-11-13
 Warp,greenhouse,warp,B2B,5,True,2026-11-13
 15Five,lever,15five,,4,True,2026-11-13
 Accord,ashby,accord,B2B,4,True,2026-11-13
+Acquia,greenhouse,acquia,,4,True,2026-11-13
 Artisan,ashby,artisan,B2B,4,True,2026-11-13
 Artos,ashby,artosai,B2B,4,True,2026-11-13
 Assembly,ashby,assembly,B2B,4,True,2026-11-13

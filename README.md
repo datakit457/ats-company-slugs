@@ -1,6 +1,6 @@
 # Greenhouse, Lever, Ashby and Workable company slugs (843 verified job boards)
 
-A free, open list of **843 company job boards** with their ATS (applicant tracking system) and board slug, checked against the public job-board APIs. Every row was reachable on the date in the `checked` column, and the list re-checks itself weekly with GitHub Actions.
+A free, open list of **843 company job boards** with their ATS (applicant tracking system) and board slug, checked against the public job-board APIs. Every row was reachable on the date in the `checked` column, and I re-run the check weekly.
 
 Why this exists: Greenhouse, Lever, Ashby and Workable all publish open jobs as public JSON, but you need each company's board slug, and it's often not what you'd guess. I built this list while working on a jobs tool and am sharing it so you don't have to probe slugs yourself.
 
@@ -15,7 +15,7 @@ Why this exists: Greenhouse, Lever, Ashby and Workable all publish open jobs as 
 
 - [`data/boards.csv`](data/boards.csv) / [`data/boards.json`](data/boards.json): `company, ats, slug, industry, open_jobs, board_ok, checked`
 - [`fetch_jobs.py`](fetch_jobs.py): print the open jobs for one board (standard library only)
-- [`refresh.py`](refresh.py): re-check every board and rewrite the data files (runs weekly in `.github/workflows/refresh.yml`)
+- [`refresh.py`](refresh.py): re-check every board and rewrite the data files
 
 ## Endpoints
 

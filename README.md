@@ -39,7 +39,7 @@ Research Engineer | San Francisco | https://jobs.ashbyhq.com/openai/240d459b-...
 827 jobs
 ```
 
-Find every board with remote data roles:
+Load the boards that currently have open jobs:
 
 ```python
 import csv
